@@ -1,6 +1,13 @@
 {
-  "_comment": "Auto-refreshed by scripts/fetch-data.js on every Action run: any address whose plasmascan.to name-tag matches a known exchange or treasury/team/investor pattern gets added automatically under 'exchanges' or 'unlock_allocation'. Anything you add by hand below (a 'curated' entry) always takes precedence over auto-detection and is preserved across runs -- use this for addresses the auto-matcher misses (e.g. an exchange wallet with no explorer tag yet) or a confirmed Plasma One reward wallet.",
-  "exchanges": {},
+  "exchanges": {
+    "0xf977814e90da44bfa03b6295a0616a897441acec": "Binance: Hot Wallet 20"
+  },
   "reward_wallets": {},
-  "unlock_allocation": {}
+  "unlock_allocation": {
+    "0xf97ba376d3ecb36c4472b1d3c5aaf2d158c28558": "Plasma: Ecosystem Treasury",
+    "0xcf54cb695a70f466fd5a271f85a7e268c2c97b25": "Plasma: Team",
+    "0xa4e25178bbc0409944df09aaebe110ce858374a4": "Plasma: Investor",
+    "0x8e88826f42a0f5f199a9c91c3798c626326730b4": "Unit: Native Chain Treasury"
+  },
+  "_comment": "Auto-refreshed by scripts/fetch-data.js on every Action run: any address whose plasmascan.to name-tag matches a known exchange or treasury/team/investor pattern gets added automatically under 'exchanges' or 'unlock_allocation'. Anything you add by hand below (a 'curated' entry) always takes precedence over auto-detection and is preserved across runs -- use this for addresses the auto-matcher misses (e.g. an exchange wallet with no explorer tag yet) or a confirmed Plasma One reward wallet."
 }
