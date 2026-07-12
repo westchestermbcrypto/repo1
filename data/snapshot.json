@@ -1,0 +1,12 @@
+{
+  "generatedAt": null,
+  "market": null,
+  "holders": [],
+  "holderDeltaPct": null,
+  "largeTransfers": [],
+  "rewardCandidates": [],
+  "unlockEvents": [],
+  "signal": null,
+  "thresholdXpl": 250000,
+  "scannedTxCount": 0
+}
