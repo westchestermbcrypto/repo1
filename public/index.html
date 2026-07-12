@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>XPL (Plasma) Dashboard</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<div class="page">
+
+  <header class="topbar">
+    <div>
+      <h1>XPL <span class="muted">/ Plasma</span></h1>
+      <p class="muted small" id="last-updated">Loading…</p>
+    </div>
+    <div class="poll-badge" id="poll-badge"></div>
+  </header>
+
+  <section class="stat-row" id="stat-row" aria-label="Price overview">
+    <div class="stat-tile"><div class="stat-label">Price</div><div class="stat-value" id="stat-price">–</div><div class="stat-sub" id="stat-price-change">–</div></div>
+    <div class="stat-tile"><div class="stat-label">Market cap</div><div class="stat-value" id="stat-mcap">–</div></div>
+    <div class="stat-tile"><div class="stat-label">24h volume</div><div class="stat-value" id="stat-vol">–</div></div>
+    <div class="stat-tile"><div class="stat-label">Top 15 holders</div><div class="stat-value" id="stat-holders-pct">–</div><div class="stat-sub">of total supply</div></div>
+  </section>
+
+  <section class="panel signal-panel" id="signal-panel">
+    <h2>Buy/sell signal <span class="muted small">(heuristic, not advice)</span></h2>
+    <div class="signal-body">
+      <div class="signal-badge" id="signal-badge">–</div>
+      <ul class="signal-notes" id="signal-notes"></ul>
+    </div>
+  </section>
+
+  <section class="panel">
+    <h2>Price, last 7 days</h2>
+    <div id="price-chart" class="chart-wrap"><svg id="price-svg" viewBox="0 0 720 220" preserveAspectRatio="none"></svg></div>
+  </section>
+
+  <section class="panel unlocks-panel">
+    <h2>Upcoming unlocks &amp; wallets to watch</h2>
+    <div class="unlock-cards" id="unlock-cards"></div>
+  </section>
+
+  <div class="grid-2">
+    <section class="panel">
+      <h2>Top 15 wallet holders</h2>
+      <div class="table-wrap">
+        <table id="holders-table">
+          <thead><tr><th>#</th><th>Address</th><th>Label</th><th>Balance (XPL)</th><th>% supply</th><th>Δ since prior snapshot</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>Large transfers &amp; exchange flows <span class="muted small" id="flows-threshold"></span></h2>
+      <div class="filter-row" id="flows-filter">
+        <button class="chip active" data-cat="">All</button>
+        <button class="chip" data-cat="exchange_inflow">To exchange</button>
+        <button class="chip" data-cat="exchange_outflow">From exchange</button>
+        <button class="chip" data-cat="reward_candidate">Card rewards</button>
+        <button class="chip" data-cat="whale_unlabeled">Unlabeled whale</button>
+      </div>
+      <div class="table-wrap">
+        <table id="flows-table">
+          <thead><tr><th>Time</th><th>Type</th><th>Amount</th><th>From</th><th>To</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+  </div>
+
+  <section class="panel">
+    <h2>Suspected Plasma One card-reward wallets <span class="muted small">(heuristic detection, unconfirmed)</span></h2>
+    <div class="table-wrap">
+      <table id="reward-table">
+        <thead><tr><th>Address</th><th>Confidence</th><th>Evidence</th><th>Last seen</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <footer class="footer muted small">
+    Data: Plasmascan (on-chain), CoinGecko (price), DefiLlama/tokenomics docs (unlocks).
+    Exchange, reward-wallet, and unlock-allocation labels are best-effort — see
+    <code>server/labels.json</code> and the README to add confirmed addresses.
+  </footer>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

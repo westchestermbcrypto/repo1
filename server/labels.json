@@ -1,0 +1,6 @@
+{
+  "_instructions": "Curated address labels. No exchange, Plasma One rewards, or unlock-allocation addresses are publicly confirmed yet -- see README 'Filling in labels'. Add entries as you identify them; the poller re-reads this file every cycle so no restart is needed. Keys are lowercase 0x addresses.",
+  "exchanges": {},
+  "reward_wallets": {},
+  "unlock_allocation": {}
+}
