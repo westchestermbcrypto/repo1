@@ -1,0 +1,16 @@
+{
+  "name": "xpl-dashboard-databot",
+  "version": "1.0.0",
+  "description": "Data-refresh script for the XPL dashboard GitHub Page (scrapes plasmascan.to + CoinGecko server-side, on a schedule). Not shipped to the browser -- the site itself is static HTML/CSS/JS.",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "fetch-data": "node scripts/fetch-data.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}

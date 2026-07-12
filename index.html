@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>XPL (Plasma) Trading Dashboard</title>
+<meta name="description" content="Top-15 holder movements, exchange flows, card-reward transfers, and unlock tracking for the XPL (Plasma) token." />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<div class="wrap">
+
+  <header class="page-header">
+    <div>
+      <h1>XPL (Plasma) Dashboard</h1>
+      <div class="subtitle">Trading-activity signals for the XPL token &mdash; not financial advice</div>
+    </div>
+    <div id="freshness" class="freshness">Loading&hellip;</div>
+  </header>
+
+  <div class="grid stats" id="stat-tiles">
+    <div class="card stat-tile"><div class="stat-label">Price (USD)</div><div class="stat-value">&hellip;</div></div>
+    <div class="card stat-tile"><div class="stat-label">24h Change</div><div class="stat-value">&hellip;</div></div>
+    <div class="card stat-tile"><div class="stat-label">Market Cap</div><div class="stat-value">&hellip;</div></div>
+    <div class="card stat-tile"><div class="stat-label">24h Volume</div><div class="stat-value">&hellip;</div></div>
+  </div>
+
+  <section class="card" id="signal-card">
+    <h2>Accumulation / distribution signal</h2>
+    <p class="card-note">A heuristic aid built from the same signals a discretionary trader would eyeball &mdash; not a prediction. Read the notes, not just the badge.</p>
+    <div id="signal-body"><div class="empty-state">Loading&hellip;</div></div>
+  </section>
+
+  <div class="grid two-col">
+    <section class="card" id="price-card">
+      <h2>Price, 7 days</h2>
+      <p class="card-note">Live from CoinGecko, fetched in your browser.</p>
+      <div class="sparkline-wrap" id="sparkline-wrap"><div class="empty-state">Loading&hellip;</div></div>
+    </section>
+
+    <section class="card" id="unlocks-card">
+      <h2>Unlocks to watch</h2>
+      <p class="card-note">Exact distributing wallets aren't publicly confirmed &mdash; see notes on what to watch instead.</p>
+      <div class="unlock-grid" id="unlock-grid"><div class="empty-state">Loading&hellip;</div></div>
+    </section>
+  </div>
+
+  <section class="card" id="holders-card">
+    <h2>Top 15 wallet holders</h2>
+    <p class="card-note">Scraped from plasmascan.to's public accounts table on a ~30 minute refresh cycle. &Delta; is the change vs. the prior snapshot.</p>
+    <div class="table-scroll">
+      <table class="data-table" id="holders-table">
+        <thead>
+          <tr>
+            <th>#</th><th>Address</th><th>Label</th>
+            <th class="num">Balance (XPL)</th><th class="num">% Supply</th><th class="num">&Delta; since last</th>
+          </tr>
+        </thead>
+        <tbody><tr><td colspan="6" class="empty-state">Loading&hellip;</td></tr></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="card" id="flows-card">
+    <h2>Large transfers</h2>
+    <p class="card-note">Scans the newest ~300 transactions each refresh for transfers over the size threshold. Labels come from <code>data/labels.json</code> &mdash; edit it to improve accuracy.</p>
+    <div class="controls" id="flow-filters"></div>
+    <div class="table-scroll">
+      <table class="data-table" id="flows-table">
+        <thead>
+          <tr><th>Time</th><th>Category</th><th>From</th><th>To</th><th class="num">Amount (XPL)</th><th>Tx</th></tr>
+        </thead>
+        <tbody><tr><td colspan="6" class="empty-state">Loading&hellip;</td></tr></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="card" id="rewards-card">
+    <h2>Suspected card-reward wallets</h2>
+    <p class="card-note">Heuristic: a sender fanning out many small transfers to distinct recipients on a Thursday (Plasma One pays cashback weekly on Thursdays). Unconfirmed &mdash; flagged as a candidate, not a fact.</p>
+    <div id="rewards-body"><div class="empty-state">Loading&hellip;</div></div>
+  </section>
+
+  <footer class="page-footer">
+    <p>Data sources: price/market data from CoinGecko (live); holders, transfers, and labels scraped from plasmascan.to by a scheduled GitHub Action (<code>.github/workflows/update-data.yml</code>), committed to <code>data/snapshot.json</code>.</p>
+    <p>This is a heuristic research aid, not financial advice. Exchange, reward-wallet, and unlock-allocation labels are a mix of the explorer's own name tags and pattern matching &mdash; verify anything decision-critical yourself on <a href="https://plasmascan.to" target="_blank" rel="noopener">plasmascan.to</a>.</p>
+  </footer>
+
+</div>
+<script src="app.js"></script>
+</body>
+</html>
