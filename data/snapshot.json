@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-14T08:59:01.120Z",
+  "generatedAt": "2026-07-14T10:46:28.739Z",
   "market": {
-    "priceUsd": 0.090502,
-    "marketCapUsd": 235385785,
-    "volume24hUsd": 36775178,
-    "change1hPct": -0.36969771697087717,
-    "change24hPct": 0.025734125464028847,
-    "change7dPct": -15.759753158975093
+    "priceUsd": 0.090294,
+    "marketCapUsd": 234770430,
+    "volume24hUsd": 35995500,
+    "change1hPct": 0.2514958053809848,
+    "change24hPct": -0.055045280069732104,
+    "change7dPct": -15.339551583012923
   },
   "holders": [
     {
@@ -93,11 +93,11 @@
       "rank": 9,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 184707465.60712448,
-      "pctSupply": 1.84707466,
-      "txCount": 177233,
+      "balanceXpl": 184776831.14292696,
+      "pctSupply": 1.84776831,
+      "txCount": 177254,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": -531659.01834324
+      "deltaXpl": 69365.53580248356
     },
     {
       "rank": 10,
@@ -123,11 +123,11 @@
       "rank": 12,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 73484136.54101735,
-      "pctSupply": 0.73484137,
-      "txCount": 35813,
+      "balanceXpl": 73585911.15498248,
+      "pctSupply": 0.73585911,
+      "txCount": 35819,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": 387134.2160632014
+      "deltaXpl": 101774.61396512389
     },
     {
       "rank": 13,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": -0.0016057764947693864,
+  "holderDeltaPct": 0.0019015230494796806,
   "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
@@ -193,8 +193,8 @@
       "No labeled exchange flow detected in the scanned window.",
       "Ecosystem & Growth monthly vest is 11 day(s) away (2026-07-25) -- unlocks typically add sell-side supply; treat this as a period of elevated downside risk until absorbed."
     ],
-    "priceUsd": 0.090502
+    "priceUsd": 0.090294
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 292
+  "scannedTxCount": 291
 }
