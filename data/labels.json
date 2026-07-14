@@ -1,6 +1,7 @@
 {
   "exchanges": {
-    "0xf977814e90da44bfa03b6295a0616a897441acec": "Binance: Hot Wallet 20"
+    "0xf977814e90da44bfa03b6295a0616a897441acec": "Binance: Hot Wallet 20",
+    "0x01eadbed08832ba3a12b571b299075dc6b503dca": "Bybit: Wallet 129"
   },
   "reward_wallets": {},
   "unlock_allocation": {
