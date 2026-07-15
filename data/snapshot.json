@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-15T14:17:28.902Z",
+  "generatedAt": "2026-07-15T15:58:31.098Z",
   "market": {
-    "priceUsd": 0.092158,
-    "marketCapUsd": 239672190,
-    "volume24hUsd": 47107872,
-    "change1hPct": -1.9042470866385477,
-    "change24hPct": 0.6727700292585015,
-    "change7dPct": -0.07755363662064489
+    "priceUsd": 0.092567,
+    "marketCapUsd": 240735625,
+    "volume24hUsd": 45740368,
+    "change1hPct": -0.2727025313063779,
+    "change24hPct": 0.9311808758762853,
+    "change7dPct": -0.9145811067951056
   },
   "holders": [
     {
@@ -93,11 +93,11 @@
       "rank": 9,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 185944764.22199896,
-      "pctSupply": 1.85944764,
-      "txCount": 177707,
+      "balanceXpl": 185938221.37472442,
+      "pctSupply": 1.85938221,
+      "txCount": 177719,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": 723661.0335061252
+      "deltaXpl": -6542.847274541855
     },
     {
       "rank": 10,
@@ -123,11 +123,11 @@
       "rank": 12,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 72596934.04760094,
-      "pctSupply": 0.72596934,
-      "txCount": 36079,
+      "balanceXpl": 72707333.82590054,
+      "pctSupply": 0.72707334,
+      "txCount": 36087,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": 327016.8461678773
+      "deltaXpl": 110399.77829959989
     },
     {
       "rank": 13,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": 0.01167892031909111,
+  "holderDeltaPct": 0.0011542978148674317,
   "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
@@ -193,8 +193,8 @@
       "No labeled exchange flow detected in the scanned window.",
       "Ecosystem & Growth monthly vest is 10 day(s) away (2026-07-25) -- unlocks typically add sell-side supply; treat this as a period of elevated downside risk until absorbed."
     ],
-    "priceUsd": 0.092158
+    "priceUsd": 0.092567
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 292
+  "scannedTxCount": 293
 }
