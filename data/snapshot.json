@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-16T20:49:39.248Z",
+  "generatedAt": "2026-07-16T21:57:55.625Z",
   "market": {
-    "priceUsd": 0.087468,
-    "marketCapUsd": 227506619,
-    "volume24hUsd": 53999773,
-    "change1hPct": 0.25709954790783013,
-    "change24hPct": -5.564962283609752,
-    "change7dPct": -7.671896848146142
+    "priceUsd": 0.087281,
+    "marketCapUsd": 226953260,
+    "volume24hUsd": 51223852,
+    "change1hPct": -0.10649992005824806,
+    "change24hPct": -5.666510498059894,
+    "change7dPct": -7.717420690788354
   },
   "holders": [
     {
@@ -93,11 +93,11 @@
       "rank": 9,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 187804734.82789406,
-      "pctSupply": 1.87804735,
-      "txCount": 178084,
+      "balanceXpl": 187770432.5403959,
+      "pctSupply": 1.87770433,
+      "txCount": 178095,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": -39616.28838801384
+      "deltaXpl": -34302.2874981761
     },
     {
       "rank": 10,
@@ -123,11 +123,11 @@
       "rank": 12,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 75184316.4263018,
-      "pctSupply": 0.75184316,
-      "txCount": 36320,
+      "balanceXpl": 75227118.99401088,
+      "pctSupply": 0.75227119,
+      "txCount": 36324,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": 178098.5838420093
+      "deltaXpl": 42802.567709073424
     },
     {
       "rank": 13,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": 0.00153794131205624,
+  "holderDeltaPct": 0.00009440001702862457,
   "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
@@ -193,8 +193,8 @@
       "No labeled exchange flow detected in the scanned window.",
       "Ecosystem & Growth monthly vest is 9 day(s) away (2026-07-25) -- unlocks typically add sell-side supply; treat this as a period of elevated downside risk until absorbed."
     ],
-    "priceUsd": 0.087468
+    "priceUsd": 0.087281
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 295
+  "scannedTxCount": 292
 }
