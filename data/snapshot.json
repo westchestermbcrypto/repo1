@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-18T20:37:02.136Z",
+  "generatedAt": "2026-07-18T21:40:09.556Z",
   "market": {
-    "priceUsd": 0.082678,
-    "marketCapUsd": 214961731,
-    "volume24hUsd": 29569150,
-    "change1hPct": 1.1602490692101477,
-    "change24hPct": -3.278243073191467,
-    "change7dPct": -10.936831277922241
+    "priceUsd": 0.082759,
+    "marketCapUsd": 215234650,
+    "volume24hUsd": 29578959,
+    "change1hPct": 0.12303754106165359,
+    "change24hPct": -2.5514215745845057,
+    "change7dPct": -10.84939135993882
   },
   "holders": [
     {
@@ -93,11 +93,11 @@
       "rank": 9,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 189111865.92118758,
-      "pctSupply": 1.89111866,
-      "txCount": 178477,
+      "balanceXpl": 189053226.80492046,
+      "pctSupply": 1.89053227,
+      "txCount": 178479,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": -246206.05271723866
+      "deltaXpl": -58639.11626711488
     },
     {
       "rank": 10,
@@ -123,11 +123,11 @@
       "rank": 12,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 76638312.08286867,
-      "pctSupply": 0.76638312,
-      "txCount": 36577,
+      "balanceXpl": 76679391.21916886,
+      "pctSupply": 0.76679391,
+      "txCount": 36581,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": 97972.31960305572
+      "deltaXpl": 41079.13630019128
     },
     {
       "rank": 13,
@@ -160,20 +160,8 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": -0.0016458647226578003,
-  "largeTransfers": [
-    {
-      "txHash": "0x56685cc6c784135ba9327d8b25176c72706a7b65aa5a4d0daa362599bc7eeefb",
-      "ts": 1784407005,
-      "fromAddress": "0x8558138fc2b521fbdacc444b43a670f37229c383",
-      "toAddress": "0x300226f054150e787a797f1fd07f0e38a4a655f4",
-      "amountXpl": 300000,
-      "category": "whale_unlabeled",
-      "fromLabel": null,
-      "toLabel": null,
-      "explorerTxUrl": "https://plasmascan.to/tx/0x56685cc6c784135ba9327d8b25176c72706a7b65aa5a4d0daa362599bc7eeefb"
-    }
-  ],
+  "holderDeltaPct": -0.0001949746972988966,
+  "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
     {
@@ -205,7 +193,7 @@
       "No labeled exchange flow detected in the scanned window.",
       "Ecosystem & Growth monthly vest is 7 day(s) away (2026-07-25) -- unlocks typically add sell-side supply; treat this as a period of elevated downside risk until absorbed."
     ],
-    "priceUsd": 0.082678
+    "priceUsd": 0.082759
   },
   "thresholdXpl": 250000,
   "scannedTxCount": 300
