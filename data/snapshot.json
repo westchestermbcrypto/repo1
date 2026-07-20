@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-20T16:51:08.512Z",
+  "generatedAt": "2026-07-20T18:48:00.447Z",
   "market": {
-    "priceUsd": 0.086401,
-    "marketCapUsd": 224743661,
-    "volume24hUsd": 39319297,
-    "change1hPct": 2.578274712767174,
-    "change24hPct": 6.952591565563601,
-    "change7dPct": -4.022592580684849
+    "priceUsd": 0.086727,
+    "marketCapUsd": 225229697,
+    "volume24hUsd": 39527900,
+    "change1hPct": 1.3389938996920694,
+    "change24hPct": 8.450060689721976,
+    "change7dPct": -2.75567781987608
   },
   "holders": [
     {
@@ -67,7 +67,7 @@
       "pctSupply": 2.6502667,
       "txCount": 5672,
       "explorerUrl": "https://plasmascan.to/address/0x405fbc9004d857903bfd6b3357792d71a50726b0",
-      "deltaXpl": -450.5345450043678
+      "deltaXpl": 0
     },
     {
       "rank": 7,
@@ -83,11 +83,11 @@
       "rank": 8,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 188820836.37089175,
-      "pctSupply": 1.88820836,
-      "txCount": 178775,
+      "balanceXpl": 188629579.87729996,
+      "pctSupply": 1.8862958,
+      "txCount": 178811,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": -828719.7240977585
+      "deltaXpl": -191256.49359178543
     },
     {
       "rank": 9,
@@ -107,7 +107,7 @@
       "pctSupply": 1.52646755,
       "txCount": 27136,
       "explorerUrl": "https://plasmascan.to/address/0x8e88826f42a0f5f199a9c91c3798c626326730b4",
-      "deltaXpl": 917713.9999620616
+      "deltaXpl": 0
     },
     {
       "rank": 11,
@@ -123,11 +123,11 @@
       "rank": 12,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 78341936.40212753,
-      "pctSupply": 0.78341936,
-      "txCount": 36825,
+      "balanceXpl": 78489019.485834,
+      "pctSupply": 0.78489019,
+      "txCount": 36843,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": 406680.67018455267
+      "deltaXpl": 147083.08370646834
     },
     {
       "rank": 13,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": 0.005499643943704404,
+  "holderDeltaPct": -0.0004905345142824523,
   "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
@@ -186,15 +186,15 @@
     }
   ],
   "signal": {
-    "bias": "neutral",
-    "score": 0,
-    "netExchangeFlowXpl": 2528.692515001,
+    "bias": "distribution-leaning",
+    "score": -1,
+    "netExchangeFlowXpl": 0,
     "notes": [
-      "Net outflow from labeled exchange wallets over the scanned window (2,529 XPL) -- tokens moving to self-custody, historically a mild accumulation signal.",
+      "No labeled exchange flow detected in the scanned window.",
       "Ecosystem & Growth monthly vest is 5 day(s) away (2026-07-25) -- unlocks typically add sell-side supply; treat this as a period of elevated downside risk until absorbed."
     ],
-    "priceUsd": 0.086401
+    "priceUsd": 0.086727
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 289
+  "scannedTxCount": 292
 }
