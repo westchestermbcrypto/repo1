@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T10:40:05.148Z",
+  "generatedAt": "2026-07-20T13:00:05.078Z",
   "holders": [
     {
       "rank": 1,
@@ -68,9 +68,9 @@
       "rank": 8,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 189871910.94703797,
-      "pctSupply": 1.89871911,
-      "txCount": 178695,
+      "balanceXpl": 189756724.4495212,
+      "pctSupply": 1.89756724,
+      "txCount": 178716,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873"
     },
     {
@@ -104,9 +104,9 @@
       "rank": 12,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 78119213.63567278,
-      "pctSupply": 0.78119214,
-      "txCount": 36778,
+      "balanceXpl": 78015519.38703951,
+      "pctSupply": 0.78015519,
+      "txCount": 36788,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca"
     },
     {
