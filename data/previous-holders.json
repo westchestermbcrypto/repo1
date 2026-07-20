@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T13:00:05.078Z",
+  "generatedAt": "2026-07-20T15:13:19.586Z",
   "holders": [
     {
       "rank": 1,
@@ -50,8 +50,8 @@
       "rank": 6,
       "address": "0x405fbc9004d857903bfd6b3357792d71a50726b0",
       "label": "LayerZero: Plasma Native OFT Adapter",
-      "balanceXpl": 265029073.681769,
-      "pctSupply": 2.65029074,
+      "balanceXpl": 265027120.608187,
+      "pctSupply": 2.65027121,
       "txCount": 5672,
       "explorerUrl": "https://plasmascan.to/address/0x405fbc9004d857903bfd6b3357792d71a50726b0"
     },
@@ -68,9 +68,9 @@
       "rank": 8,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 189756724.4495212,
-      "pctSupply": 1.89756724,
-      "txCount": 178716,
+      "balanceXpl": 189649556.0949895,
+      "pctSupply": 1.89649556,
+      "txCount": 178742,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873"
     },
     {
@@ -86,9 +86,9 @@
       "rank": 10,
       "address": "0x8e88826f42a0f5f199a9c91c3798c626326730b4",
       "label": "Unit: Native Chain Treasury",
-      "balanceXpl": 151701475.57686958,
-      "pctSupply": 1.51701476,
-      "txCount": 27130,
+      "balanceXpl": 151729041.3424973,
+      "pctSupply": 1.51729041,
+      "txCount": 27134,
       "explorerUrl": "https://plasmascan.to/address/0x8e88826f42a0f5f199a9c91c3798c626326730b4"
     },
     {
@@ -104,9 +104,9 @@
       "rank": 12,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 78015519.38703951,
-      "pctSupply": 0.78015519,
-      "txCount": 36788,
+      "balanceXpl": 77935255.73194298,
+      "pctSupply": 0.77935256,
+      "txCount": 36796,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca"
     },
     {
