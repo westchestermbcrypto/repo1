@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-22T14:31:39.396Z",
+  "generatedAt": "2026-07-22T16:14:15.471Z",
   "market": {
-    "priceUsd": 0.084408,
-    "marketCapUsd": 219523309,
-    "volume24hUsd": 32401549,
-    "change1hPct": 0.14626773929500822,
-    "change24hPct": -1.1072800953589435,
-    "change7dPct": -8.610784093489253
+    "priceUsd": 0.084367,
+    "marketCapUsd": 219393939,
+    "volume24hUsd": 30682402,
+    "change1hPct": -0.3205133754576961,
+    "change24hPct": -2.019516912226153,
+    "change7dPct": -8.879878019014855
   },
   "holders": [
     {
@@ -83,11 +83,11 @@
       "rank": 8,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 189700519.92563504,
-      "pctSupply": 1.8970052,
-      "txCount": 179214,
+      "balanceXpl": 189868690.7891529,
+      "pctSupply": 1.89868691,
+      "txCount": 179242,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": -249789.1052363217
+      "deltaXpl": 168170.86351785064
     },
     {
       "rank": 9,
@@ -123,11 +123,11 @@
       "rank": 12,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 77614044.61503218,
-      "pctSupply": 0.77614045,
-      "txCount": 37074,
+      "balanceXpl": 77444608.23349018,
+      "pctSupply": 0.77444608,
+      "txCount": 37085,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": 74890.86646592617
+      "deltaXpl": -169436.3815419972
     },
     {
       "rank": 13,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": -0.0019423901684260264,
+  "holderDeltaPct": -0.000014054901486370538,
   "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
@@ -193,8 +193,8 @@
       "No labeled exchange flow detected in the scanned window.",
       "Ecosystem & Growth monthly vest is 3 day(s) away (2026-07-25) -- unlocks typically add sell-side supply; treat this as a period of elevated downside risk until absorbed."
     ],
-    "priceUsd": 0.084408
+    "priceUsd": 0.084367
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 290
+  "scannedTxCount": 295
 }
