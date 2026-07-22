@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-21T23:47:38.916Z",
+  "generatedAt": "2026-07-22T01:30:24.459Z",
   "market": {
-    "priceUsd": 0.08366,
-    "marketCapUsd": 217517058,
-    "volume24hUsd": 34638564,
-    "change1hPct": -0.5112412699181927,
-    "change24hPct": -2.237135588521736,
-    "change7dPct": -10.447860481435066
+    "priceUsd": 0.083548,
+    "marketCapUsd": 217134272,
+    "volume24hUsd": 34679171,
+    "change1hPct": -0.11612016582221295,
+    "change24hPct": -1.5751024225265413,
+    "change7dPct": -10.300876508846867
   },
   "holders": [
     {
@@ -83,11 +83,11 @@
       "rank": 8,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 189938552.99830788,
-      "pctSupply": 1.89938553,
-      "txCount": 179112,
+      "balanceXpl": 189888901.445365,
+      "pctSupply": 1.89888901,
+      "txCount": 179118,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": 291313.3696607053
+      "deltaXpl": -49651.55294287205
     },
     {
       "rank": 9,
@@ -123,11 +123,11 @@
       "rank": 12,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 78205407.61140078,
-      "pctSupply": 0.78205408,
-      "txCount": 37006,
+      "balanceXpl": 78244671.53719531,
+      "pctSupply": 0.78244672,
+      "txCount": 37008,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": -43898.73173376918
+      "deltaXpl": 39263.925794526935
     },
     {
       "rank": 13,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": 0.0027476074044484222,
+  "holderDeltaPct": -0.00011535427868552352,
   "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
@@ -191,10 +191,10 @@
     "netExchangeFlowXpl": 0,
     "notes": [
       "No labeled exchange flow detected in the scanned window.",
-      "Ecosystem & Growth monthly vest is 4 day(s) away (2026-07-25) -- unlocks typically add sell-side supply; treat this as a period of elevated downside risk until absorbed."
+      "Ecosystem & Growth monthly vest is 3 day(s) away (2026-07-25) -- unlocks typically add sell-side supply; treat this as a period of elevated downside risk until absorbed."
     ],
-    "priceUsd": 0.08366
+    "priceUsd": 0.083548
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 286
+  "scannedTxCount": 292
 }
