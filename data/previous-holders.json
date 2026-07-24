@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T17:00:40.008Z",
+  "generatedAt": "2026-07-24T18:53:07.774Z",
   "holders": [
     {
       "rank": 1,
@@ -57,21 +57,21 @@
     },
     {
       "rank": 7,
-      "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "label": "Plasma: WXPL Token",
-      "balanceXpl": 191705610.33521718,
-      "pctSupply": 1.9170561,
-      "txCount": 179628,
-      "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873"
-    },
-    {
-      "rank": 8,
       "address": "0x7e52d521d24c04cb36c70130d92a2c1571e0b5a8",
       "label": null,
       "balanceXpl": 191666290,
       "pctSupply": 1.9166629,
       "txCount": 1,
       "explorerUrl": "https://plasmascan.to/address/0x7e52d521d24c04cb36c70130d92a2c1571e0b5a8"
+    },
+    {
+      "rank": 8,
+      "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
+      "label": "Plasma: WXPL Token",
+      "balanceXpl": 191081944.7323846,
+      "pctSupply": 1.91081945,
+      "txCount": 179652,
+      "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873"
     },
     {
       "rank": 9,
@@ -86,9 +86,9 @@
       "rank": 10,
       "address": "0x8e88826f42a0f5f199a9c91c3798c626326730b4",
       "label": "Unit: Native Chain Treasury",
-      "balanceXpl": 151354845.61185917,
-      "pctSupply": 1.51354846,
-      "txCount": 27170,
+      "balanceXpl": 149941382.6124444,
+      "pctSupply": 1.49941383,
+      "txCount": 27173,
       "explorerUrl": "https://plasmascan.to/address/0x8e88826f42a0f5f199a9c91c3798c626326730b4"
     },
     {
@@ -104,9 +104,9 @@
       "rank": 12,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 75395158.93349177,
-      "pctSupply": 0.75395159,
-      "txCount": 37307,
+      "balanceXpl": 75824320.62757431,
+      "pctSupply": 0.75824321,
+      "txCount": 37328,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca"
     },
     {
