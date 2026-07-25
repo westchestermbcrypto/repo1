@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-25T20:05:20.007Z",
+  "generatedAt": "2026-07-25T21:14:18.671Z",
   "market": {
-    "priceUsd": 0.082857,
-    "marketCapUsd": 222845574,
-    "volume24hUsd": 30149613,
-    "change1hPct": -0.4,
+    "priceUsd": 0.082671,
+    "marketCapUsd": 222294552,
+    "volume24hUsd": 30336290,
+    "change1hPct": -0.1,
     "change24hPct": -4.8,
-    "change7dPct": 2.5
+    "change7dPct": 1
   },
   "holders": [
     {
@@ -73,11 +73,11 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 192600030.13011688,
-      "pctSupply": 1.9260003,
-      "txCount": 179772,
+      "balanceXpl": 192593688.11624166,
+      "pctSupply": 1.92593688,
+      "txCount": 179786,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": 49593.02250921726
+      "deltaXpl": -6342.013875216246
     },
     {
       "rank": 8,
@@ -127,7 +127,7 @@
       "pctSupply": 0.73963295,
       "txCount": 37428,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": -68573.76961533725
+      "deltaXpl": 0
     },
     {
       "rank": 13,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": -0.00021078581129221942,
+  "holderDeltaPct": -0.0000704297544226781,
   "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
@@ -193,8 +193,8 @@
       "No labeled exchange flow detected in the scanned window.",
       "Public sale US-purchaser lockup expiry is 3 day(s) away (2026-07-28) -- unlocks typically add sell-side supply; treat this as a period of elevated downside risk until absorbed."
     ],
-    "priceUsd": 0.082857
+    "priceUsd": 0.082671
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 288
+  "scannedTxCount": 293
 }
