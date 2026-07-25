@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-25T18:51:53.980Z",
+  "generatedAt": "2026-07-25T20:05:20.007Z",
   "market": {
-    "priceUsd": 0.082887,
-    "marketCapUsd": 222877040,
-    "volume24hUsd": 30603494,
-    "change1hPct": -0.42617403310763685,
-    "change24hPct": -4.770441122717734,
-    "change7dPct": 1.4353208084102005
+    "priceUsd": 0.082857,
+    "marketCapUsd": 222845574,
+    "volume24hUsd": 30149613,
+    "change1hPct": -0.4,
+    "change24hPct": -4.8,
+    "change7dPct": 2.5
   },
   "holders": [
     {
@@ -73,11 +73,11 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 192550437.10760766,
-      "pctSupply": 1.92550437,
-      "txCount": 179763,
+      "balanceXpl": 192600030.13011688,
+      "pctSupply": 1.9260003,
+      "txCount": 179772,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": 4936.068279236555
+      "deltaXpl": 49593.02250921726
     },
     {
       "rank": 8,
@@ -123,11 +123,11 @@
       "rank": 12,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 74031868.950566,
-      "pctSupply": 0.74031869,
-      "txCount": 37423,
+      "balanceXpl": 73963295.18095066,
+      "pctSupply": 0.73963295,
+      "txCount": 37428,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": 22507.411796480417
+      "deltaXpl": -68573.76961533725
     },
     {
       "rank": 13,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": 0.0003047674472382118,
+  "holderDeltaPct": -0.00021078581129221942,
   "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
@@ -193,8 +193,8 @@
       "No labeled exchange flow detected in the scanned window.",
       "Public sale US-purchaser lockup expiry is 3 day(s) away (2026-07-28) -- unlocks typically add sell-side supply; treat this as a period of elevated downside risk until absorbed."
     ],
-    "priceUsd": 0.082887
+    "priceUsd": 0.082857
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 292
+  "scannedTxCount": 288
 }
