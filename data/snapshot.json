@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-24T23:55:45.545Z",
+  "generatedAt": "2026-07-25T01:45:51.059Z",
   "market": {
-    "priceUsd": 0.08479,
-    "marketCapUsd": 220614057,
-    "volume24hUsd": 41585206,
-    "change1hPct": 0.9,
-    "change24hPct": 6.7,
-    "change7dPct": 1.2
+    "priceUsd": 0.083466,
+    "marketCapUsd": 224431636,
+    "volume24hUsd": 44293815,
+    "change1hPct": -1.6,
+    "change24hPct": 2.7,
+    "change7dPct": -2.2
   },
   "holders": [
     {
@@ -71,6 +71,16 @@
     },
     {
       "rank": 7,
+      "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
+      "label": "Plasma: WXPL Token",
+      "balanceXpl": 191960631.66780046,
+      "pctSupply": 1.91960632,
+      "txCount": 179691,
+      "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
+      "deltaXpl": 352926.8993347585
+    },
+    {
+      "rank": 8,
       "address": "0x7e52d521d24c04cb36c70130d92a2c1571e0b5a8",
       "label": null,
       "balanceXpl": 191666290,
@@ -80,34 +90,24 @@
       "deltaXpl": 0
     },
     {
-      "rank": 8,
-      "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "label": "Plasma: WXPL Token",
-      "balanceXpl": 191607704.7684657,
-      "pctSupply": 1.91607705,
-      "txCount": 179667,
-      "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": 60480.00028535724
-    },
-    {
       "rank": 9,
       "address": "0xf2b1925c89d253b3103a6b6694681ef9f9864f4f",
       "label": null,
-      "balanceXpl": 188417670.47515127,
-      "pctSupply": 1.8841767,
-      "txCount": 9075,
+      "balanceXpl": 189208367.55920726,
+      "pctSupply": 1.89208368,
+      "txCount": 9083,
       "explorerUrl": "https://plasmascan.to/address/0xf2b1925c89d253b3103a6b6694681ef9f9864f4f",
-      "deltaXpl": 0
+      "deltaXpl": 790697.08405599
     },
     {
       "rank": 10,
       "address": "0x8e88826f42a0f5f199a9c91c3798c626326730b4",
       "label": "Unit: Native Chain Treasury",
-      "balanceXpl": 149941382.6124444,
-      "pctSupply": 1.49941383,
-      "txCount": 27173,
+      "balanceXpl": 149924038.6133222,
+      "pctSupply": 1.49924039,
+      "txCount": 27176,
       "explorerUrl": "https://plasmascan.to/address/0x8e88826f42a0f5f199a9c91c3798c626326730b4",
-      "deltaXpl": 0
+      "deltaXpl": -17343.999122202396
     },
     {
       "rank": 11,
@@ -123,11 +123,11 @@
       "rank": 12,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 74948524.38231009,
-      "pctSupply": 0.74948524,
-      "txCount": 37348,
+      "balanceXpl": 74439330.10038608,
+      "pctSupply": 0.7443933,
+      "txCount": 37366,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": 17744.425738319755
+      "deltaXpl": -509194.2819240093
     },
     {
       "rank": 13,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": 0.00086898957706007,
+  "holderDeltaPct": 0.00685510154432467,
   "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
@@ -191,10 +191,10 @@
     "netExchangeFlowXpl": 0,
     "notes": [
       "No labeled exchange flow detected in the scanned window.",
-      "Ecosystem & Growth monthly vest is 1 day(s) away (2026-07-25) -- unlocks typically add sell-side supply; treat this as a period of elevated downside risk until absorbed."
+      "Public sale US-purchaser lockup expiry is 3 day(s) away (2026-07-28) -- unlocks typically add sell-side supply; treat this as a period of elevated downside risk until absorbed."
     ],
-    "priceUsd": 0.08479
+    "priceUsd": 0.083466
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 291
+  "scannedTxCount": 294
 }
