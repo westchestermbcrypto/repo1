@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-26T18:55:19.246Z",
+  "generatedAt": "2026-07-26T20:04:33.207Z",
   "market": {
-    "priceUsd": 0.082248,
-    "marketCapUsd": 221154974,
-    "volume24hUsd": 26750687,
-    "change1hPct": 0,
-    "change24hPct": -0.7,
-    "change7dPct": 2.4
+    "priceUsd": 0.08214,
+    "marketCapUsd": 220869311,
+    "volume24hUsd": 25367921,
+    "change1hPct": -0.1,
+    "change24hPct": -1.2,
+    "change7dPct": 2.6
   },
   "holders": [
     {
@@ -73,11 +73,11 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 192771825.8222996,
-      "pctSupply": 1.92771826,
-      "txCount": 179894,
+      "balanceXpl": 192771887.6356074,
+      "pctSupply": 1.92771888,
+      "txCount": 179900,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": -15254.04643368721
+      "deltaXpl": 61.81330779194832
     },
     {
       "rank": 8,
@@ -123,11 +123,11 @@
       "rank": 12,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 73959526.96661304,
-      "pctSupply": 0.73959527,
-      "txCount": 37479,
+      "balanceXpl": 73958466.17023861,
+      "pctSupply": 0.73958466,
+      "txCount": 37484,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": 13820.621754333377
+      "deltaXpl": -1060.796374425292
     },
     {
       "rank": 13,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": -0.000015918235324964406,
+  "holderDeltaPct": -0.000011093746539754555,
   "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
@@ -193,8 +193,8 @@
       "No labeled exchange flow detected in the scanned window.",
       "Public sale US-purchaser lockup expiry is 2 day(s) away (2026-07-28) -- unlocks typically add sell-side supply; treat this as a period of elevated downside risk until absorbed."
     ],
-    "priceUsd": 0.082248
+    "priceUsd": 0.08214
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 281
+  "scannedTxCount": 291
 }
