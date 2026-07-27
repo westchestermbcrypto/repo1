@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-27T17:14:50.017Z",
+  "generatedAt": "2026-07-27T18:52:53.760Z",
   "market": {
-    "priceUsd": 0.084037,
-    "marketCapUsd": 225965524,
-    "volume24hUsd": 36494070,
-    "change1hPct": 1.1,
+    "priceUsd": 0.082984,
+    "marketCapUsd": 223000602,
+    "volume24hUsd": 36777104,
+    "change1hPct": -0.6,
     "change24hPct": 1.8,
-    "change7dPct": 0.1
+    "change7dPct": -2.1
   },
   "holders": [
     {
@@ -73,11 +73,11 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 192535517.32845777,
-      "pctSupply": 1.92535517,
-      "txCount": 180014,
+      "balanceXpl": 192730647.16533777,
+      "pctSupply": 1.92730647,
+      "txCount": 180022,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": 23639.05082806945
+      "deltaXpl": 195129.83687999845
     },
     {
       "rank": 8,
@@ -97,7 +97,7 @@
       "pctSupply": 1.78745824,
       "txCount": 9109,
       "explorerUrl": "https://plasmascan.to/address/0xf2b1925c89d253b3103a6b6694681ef9f9864f4f",
-      "deltaXpl": -9573003.000420123
+      "deltaXpl": 0
     },
     {
       "rank": 10,
@@ -123,11 +123,11 @@
       "rank": 12,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 73787668.71529804,
-      "pctSupply": 0.73787669,
-      "txCount": 37590,
+      "balanceXpl": 73763346.29505186,
+      "pctSupply": 0.73763346,
+      "txCount": 37596,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": -238747.78568945825
+      "deltaXpl": -24322.420246183872
     },
     {
       "rank": 13,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": -0.10872748792957476,
+  "holderDeltaPct": 0.001899413910972304,
   "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
@@ -193,8 +193,8 @@
       "No labeled exchange flow detected in the scanned window.",
       "Public sale US-purchaser lockup expiry is 1 day(s) away (2026-07-28) -- unlocks typically add sell-side supply; treat this as a period of elevated downside risk until absorbed."
     ],
-    "priceUsd": 0.084037
+    "priceUsd": 0.082984
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 289
+  "scannedTxCount": 285
 }
