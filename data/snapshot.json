@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-28T12:18:58.116Z",
+  "generatedAt": "2026-07-28T14:56:20.089Z",
   "market": {
-    "priceUsd": 0.080548,
-    "marketCapUsd": 216512785,
-    "volume24hUsd": 44424064,
-    "change1hPct": -0.3,
-    "change24hPct": -6.5,
-    "change7dPct": -5.6
+    "priceUsd": 0.082289,
+    "marketCapUsd": 221572645,
+    "volume24hUsd": 42897818,
+    "change1hPct": -1.5,
+    "change24hPct": -6.6,
+    "change7dPct": -5.8
   },
   "holders": [
     {
@@ -73,11 +73,11 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 193829177.41744268,
-      "pctSupply": 1.93829177,
-      "txCount": 180184,
+      "balanceXpl": 193407947.66619983,
+      "pctSupply": 1.93407948,
+      "txCount": 180224,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": 216893.04525789618
+      "deltaXpl": -421229.75124284625
     },
     {
       "rank": 8,
@@ -107,7 +107,7 @@
       "pctSupply": 1.4835042,
       "txCount": 27197,
       "explorerUrl": "https://plasmascan.to/address/0x8e88826f42a0f5f199a9c91c3798c626326730b4",
-      "deltaXpl": -1150270.999707669
+      "deltaXpl": 0
     },
     {
       "rank": 11,
@@ -133,11 +133,11 @@
       "rank": 13,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 69487805.4321734,
-      "pctSupply": 0.69487805,
-      "txCount": 37730,
+      "balanceXpl": 69534307.02348413,
+      "pctSupply": 0.69534307,
+      "txCount": 37741,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": -313057.3601260036
+      "deltaXpl": 46501.591310724616
     },
     {
       "rank": 14,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": -0.013854515141645768,
+  "holderDeltaPct": -0.0041657968820206755,
   "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
@@ -192,8 +192,8 @@
     "notes": [
       "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.080548
+    "priceUsd": 0.082289
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 287
+  "scannedTxCount": 288
 }
