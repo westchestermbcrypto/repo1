@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-30T18:52:47.045Z",
+  "generatedAt": "2026-07-30T20:10:38.040Z",
   "market": {
-    "priceUsd": 0.075386,
-    "marketCapUsd": 202722866,
-    "volume24hUsd": 34550231,
-    "change1hPct": -0.6824841679939729,
-    "change24hPct": -4.866691136662596,
-    "change7dPct": -8.525528842431084
+    "priceUsd": 0.076601,
+    "marketCapUsd": 206109893,
+    "volume24hUsd": 39168193,
+    "change1hPct": 1.653793040425427,
+    "change24hPct": -0.17481664574248276,
+    "change7dPct": -6.898409588201875
   },
   "holders": [
     {
@@ -73,11 +73,11 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 195710274.5803174,
-      "pctSupply": 1.95710275,
-      "txCount": 180627,
+      "balanceXpl": 195395083.80501202,
+      "pctSupply": 1.95395084,
+      "txCount": 180640,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": 86516.77458626032
+      "deltaXpl": -315190.77530539036
     },
     {
       "rank": 8,
@@ -133,11 +133,11 @@
       "rank": 13,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 67228516.27560687,
-      "pctSupply": 0.67228516,
-      "txCount": 38076,
+      "balanceXpl": 67074977.02774226,
+      "pctSupply": 0.67074977,
+      "txCount": 38089,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": -86058.21513147652
+      "deltaXpl": -153539.24786461145
     },
     {
       "rank": 14,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": 0.0000050964545233203425,
+  "holderDeltaPct": -0.005209490491294042,
   "largeTransfers": [],
   "rewardCandidates": [
     {
@@ -200,8 +200,8 @@
     "notes": [
       "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.075386
+    "priceUsd": 0.076601
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 292
+  "scannedTxCount": 300
 }
