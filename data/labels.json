@@ -3,7 +3,9 @@
     "0xf977814e90da44bfa03b6295a0616a897441acec": "Binance: Hot Wallet 20",
     "0x01eadbed08832ba3a12b571b299075dc6b503dca": "Bybit: Wallet 129"
   },
-  "reward_wallets": {},
+  "reward_wallets": {
+    "0x9430801ebaf509ad49202aabc5f5bc6fd8a3daf8": "Plasma One card rewards (suspected, medium confidence)"
+  },
   "unlock_allocation": {
     "0xf97ba376d3ecb36c4472b1d3c5aaf2d158c28558": "Plasma: Ecosystem Treasury",
     "0xcf54cb695a70f466fd5a271f85a7e268c2c97b25": "Plasma: Team",
