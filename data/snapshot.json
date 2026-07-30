@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-30T20:10:38.040Z",
+  "generatedAt": "2026-07-30T21:38:56.859Z",
   "market": {
-    "priceUsd": 0.076601,
-    "marketCapUsd": 206109893,
-    "volume24hUsd": 39168193,
-    "change1hPct": 1.653793040425427,
-    "change24hPct": -0.17481664574248276,
-    "change7dPct": -6.898409588201875
+    "priceUsd": 0.076164,
+    "marketCapUsd": 204603256,
+    "volume24hUsd": 37136921,
+    "change1hPct": -0.3,
+    "change24hPct": -1,
+    "change7dPct": -7.9
   },
   "holders": [
     {
@@ -73,11 +73,11 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 195395083.80501202,
-      "pctSupply": 1.95395084,
-      "txCount": 180640,
+      "balanceXpl": 195506670.56728137,
+      "pctSupply": 1.95506671,
+      "txCount": 180657,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": -315190.77530539036
+      "deltaXpl": 111586.7622693479
     },
     {
       "rank": 8,
@@ -133,11 +133,11 @@
       "rank": 13,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 67074977.02774226,
-      "pctSupply": 0.67074977,
-      "txCount": 38089,
+      "balanceXpl": 67185427.17253049,
+      "pctSupply": 0.67185427,
+      "txCount": 38099,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": -153539.24786461145
+      "deltaXpl": 110450.14478822798
     },
     {
       "rank": 14,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": -0.005209490491294042,
+  "holderDeltaPct": 0.0024678585969089336,
   "largeTransfers": [],
   "rewardCandidates": [
     {
@@ -200,8 +200,8 @@
     "notes": [
       "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.076601
+    "priceUsd": 0.076164
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 300
+  "scannedTxCount": 290
 }
