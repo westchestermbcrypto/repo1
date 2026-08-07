@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-07T22:02:47.838Z",
+  "generatedAt": "2026-08-07T23:01:45.430Z",
   "market": {
-    "priceUsd": 0.075975,
-    "marketCapUsd": 204326837,
-    "volume24hUsd": 26830507,
-    "change1hPct": -0.5,
+    "priceUsd": 0.075972,
+    "marketCapUsd": 204302969,
+    "volume24hUsd": 25607019,
+    "change1hPct": -0.1,
     "change24hPct": 0.7,
-    "change7dPct": 2.4
+    "change7dPct": 3.2
   },
   "holders": [
     {
@@ -73,11 +73,11 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 206415531.06455246,
-      "pctSupply": 2.06415531,
+      "balanceXpl": 206427112.69696695,
+      "pctSupply": 2.06427113,
       "txCount": 181754,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": -2631.454566836357
+      "deltaXpl": 11581.632414489985
     },
     {
       "rank": 8,
@@ -137,7 +137,7 @@
       "pctSupply": 0.68643456,
       "txCount": 38933,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": -6010.000021010637
+      "deltaXpl": 0
     },
     {
       "rank": 14,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": -0.00009659340206280685,
+  "holderDeltaPct": 0.00012945857037287956,
   "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
@@ -192,8 +192,8 @@
     "notes": [
       "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.075975
+    "priceUsd": 0.075972
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 292
+  "scannedTxCount": 295
 }
