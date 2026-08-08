@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T11:50:45.403Z",
+  "generatedAt": "2026-08-08T12:24:57.407Z",
   "holders": [
     {
       "rank": 1,
@@ -59,9 +59,9 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 206640439.76641324,
-      "pctSupply": 2.0664044,
-      "txCount": 181799,
+      "balanceXpl": 206654497.24243468,
+      "pctSupply": 2.06654497,
+      "txCount": 181801,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873"
     },
     {
@@ -86,9 +86,9 @@
       "rank": 10,
       "address": "0x8e88826f42a0f5f199a9c91c3798c626326730b4",
       "label": "Unit: Native Chain Treasury",
-      "balanceXpl": 146856698.9648358,
-      "pctSupply": 1.46856699,
-      "txCount": 27311,
+      "balanceXpl": 146842565.9651286,
+      "pctSupply": 1.46842566,
+      "txCount": 27312,
       "explorerUrl": "https://plasmascan.to/address/0x8e88826f42a0f5f199a9c91c3798c626326730b4"
     },
     {
@@ -113,9 +113,9 @@
       "rank": 13,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 68593517.98263255,
-      "pctSupply": 0.68593518,
-      "txCount": 38953,
+      "balanceXpl": 68601133.68254855,
+      "pctSupply": 0.68601134,
+      "txCount": 38955,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca"
     },
     {
