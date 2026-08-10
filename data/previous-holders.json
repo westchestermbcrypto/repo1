@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T12:43:20.155Z",
+  "generatedAt": "2026-08-10T14:12:52.971Z",
   "holders": [
     {
       "rank": 1,
@@ -23,9 +23,9 @@
       "rank": 3,
       "address": "0xa4e25178bbc0409944df09aaebe110ce858374a4",
       "label": "Plasma: Investor",
-      "balanceXpl": 1488227114.0499988,
-      "pctSupply": 14.88227114,
-      "txCount": 18,
+      "balanceXpl": 1481977296.0499988,
+      "pctSupply": 14.81977296,
+      "txCount": 20,
       "explorerUrl": "https://plasmascan.to/address/0xa4e25178bbc0409944df09aaebe110ce858374a4"
     },
     {
@@ -59,9 +59,9 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 205865062.44083643,
-      "pctSupply": 2.05865062,
-      "txCount": 181976,
+      "balanceXpl": 205823505.19745013,
+      "pctSupply": 2.05823505,
+      "txCount": 181989,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873"
     },
     {
@@ -102,21 +102,21 @@
     },
     {
       "rank": 12,
+      "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
+      "label": "Bybit: Wallet 129",
+      "balanceXpl": 71578232.58511671,
+      "pctSupply": 0.71578233,
+      "txCount": 39147,
+      "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca"
+    },
+    {
+      "rank": 13,
       "address": "0x37295d829e9a8c562343d2e9377530732eb46dcd",
       "label": null,
       "balanceXpl": 71555493,
       "pctSupply": 0.71555493,
       "txCount": 1,
       "explorerUrl": "https://plasmascan.to/address/0x37295d829e9a8c562343d2e9377530732eb46dcd"
-    },
-    {
-      "rank": 13,
-      "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "label": "Bybit: Wallet 129",
-      "balanceXpl": 71199748.98802905,
-      "pctSupply": 0.71199749,
-      "txCount": 39132,
-      "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca"
     },
     {
       "rank": 14,
