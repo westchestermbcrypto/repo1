@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-12T23:11:03.846Z",
+  "generatedAt": "2026-08-13T00:05:23.013Z",
   "market": {
-    "priceUsd": 0.074042,
-    "marketCapUsd": 198967395,
-    "volume24hUsd": 21894127,
-    "change1hPct": 0.6,
+    "priceUsd": 0.073987,
+    "marketCapUsd": 199008420,
+    "volume24hUsd": 23394806,
+    "change1hPct": -0.3,
     "change24hPct": -6,
-    "change7dPct": -0.7
+    "change7dPct": -1.1
   },
   "holders": [
     {
@@ -73,11 +73,11 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 208569793.77131262,
-      "pctSupply": 2.08569794,
-      "txCount": 182356,
+      "balanceXpl": 208594328.21527243,
+      "pctSupply": 2.08594328,
+      "txCount": 182360,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": -76876.16349071264
+      "deltaXpl": 24534.44395980239
     },
     {
       "rank": 8,
@@ -123,11 +123,11 @@
       "rank": 12,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 79508944.66968922,
-      "pctSupply": 0.79508945,
-      "txCount": 39543,
+      "balanceXpl": 79569830.24595273,
+      "pctSupply": 0.7956983,
+      "txCount": 39546,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": 162842.8862117976
+      "deltaXpl": 60885.57626350224
     },
     {
       "rank": 13,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": 0.0009604641832966134,
+  "holderDeltaPct": 0.0009543469772904096,
   "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
@@ -186,14 +186,14 @@
     }
   ],
   "signal": {
-    "bias": "distribution-leaning",
-    "score": -1,
-    "netExchangeFlowXpl": -42716.7691876,
+    "bias": "neutral",
+    "score": 0,
+    "netExchangeFlowXpl": 0,
     "notes": [
-      "Net inflow to labeled exchange wallets over the scanned window (42,717 XPL) -- tokens moving toward exchanges, often precedes selling."
+      "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.074042
+    "priceUsd": 0.073987
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 293
+  "scannedTxCount": 300
 }
