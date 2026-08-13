@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-13T09:37:31.699Z",
+  "generatedAt": "2026-08-13T10:52:09.183Z",
   "market": {
-    "priceUsd": 0.074998,
-    "marketCapUsd": 201703820,
-    "volume24hUsd": 17992373,
-    "change1hPct": -0.4,
-    "change24hPct": -1.7,
-    "change7dPct": 1.8
+    "priceUsd": 0.075457,
+    "marketCapUsd": 202941534,
+    "volume24hUsd": 19171609,
+    "change1hPct": 0.4,
+    "change24hPct": -0.8,
+    "change7dPct": 3.8
   },
   "holders": [
     {
@@ -73,11 +73,11 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 208395101.02362362,
-      "pctSupply": 2.08395101,
-      "txCount": 182402,
+      "balanceXpl": 208352905.1893294,
+      "pctSupply": 2.08352905,
+      "txCount": 182411,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": 1494.0315444469452
+      "deltaXpl": -42195.834294229746
     },
     {
       "rank": 8,
@@ -113,11 +113,11 @@
       "rank": 11,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 79955991.65414368,
-      "pctSupply": 0.79955992,
-      "txCount": 39566,
+      "balanceXpl": 80109070.2050515,
+      "pctSupply": 0.8010907,
+      "txCount": 39573,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": -14.500041991472244
+      "deltaXpl": 153078.55090782046
     },
     {
       "rank": 12,
@@ -160,9 +160,17 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": 0.00001652942346380246,
+  "holderDeltaPct": 0.001238788814281664,
   "largeTransfers": [],
-  "rewardCandidates": [],
+  "rewardCandidates": [
+    {
+      "address": "0x2abf34a51140029a4b67c6dc12a8aba85be0f2b9",
+      "dayKey": "2026-08-13",
+      "distinctRecipients": 17,
+      "transferCount": 17,
+      "confidence": "low"
+    }
+  ],
   "unlockEvents": [
     {
       "id": "ecosystem-growth-2026-07-25",
@@ -192,8 +200,8 @@
     "notes": [
       "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.074998
+    "priceUsd": 0.075457
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 295
+  "scannedTxCount": 291
 }
