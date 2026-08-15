@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-15T15:10:06.978Z",
+  "generatedAt": "2026-08-15T15:41:47.414Z",
   "market": {
-    "priceUsd": 0.07764,
-    "marketCapUsd": 208650152,
-    "volume24hUsd": 100772059,
+    "priceUsd": 0.077154,
+    "marketCapUsd": 207484561,
+    "volume24hUsd": 100143046,
     "change1hPct": -0.2,
     "change24hPct": 2.4,
     "change7dPct": 0.8
@@ -73,11 +73,11 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 208084895.80425096,
-      "pctSupply": 2.08084896,
+      "balanceXpl": 208084792.51426974,
+      "pctSupply": 2.08084793,
       "txCount": 182595,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": -143245.93458229303
+      "deltaXpl": -103.28998121619225
     },
     {
       "rank": 8,
@@ -107,17 +107,17 @@
       "pctSupply": 1.46389073,
       "txCount": 27350,
       "explorerUrl": "https://plasmascan.to/address/0x8e88826f42a0f5f199a9c91c3798c626326730b4",
-      "deltaXpl": -7180.979130208492
+      "deltaXpl": 0
     },
     {
       "rank": 11,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 80988396.05017495,
-      "pctSupply": 0.80988396,
-      "txCount": 39734,
+      "balanceXpl": 80988196.05015396,
+      "pctSupply": 0.80988196,
+      "txCount": 39735,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": 0
+      "deltaXpl": -200.00002099573612
     },
     {
       "rank": 12,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": -0.0016807855033004746,
+  "holderDeltaPct": -0.0000033888484159543474,
   "largeTransfers": [],
   "rewardCandidates": [
     {
@@ -214,8 +214,8 @@
     "notes": [
       "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.07764
+    "priceUsd": 0.077154
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 294
+  "scannedTxCount": 295
 }
