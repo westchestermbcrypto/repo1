@@ -435,24 +435,6 @@
       "count": 4,
       "lastTs": 1786649492
     },
-    "0x96dcfe04a00870902cd160989f843218bfb51fbd|2026-08-13": {
-      "fromAddress": "0x96dcfe04a00870902cd160989f843218bfb51fbd",
-      "dayKey": "2026-08-13",
-      "recipients": [
-        "0x27e77427db1b65162843b08b696bb55ab34ecf24"
-      ],
-      "count": 1,
-      "lastTs": 1786645318
-    },
-    "0xff01cc9a8971f1bd377ff12ced02007989d0a38f|2026-08-13": {
-      "fromAddress": "0xff01cc9a8971f1bd377ff12ced02007989d0a38f",
-      "dayKey": "2026-08-13",
-      "recipients": [
-        "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb"
-      ],
-      "count": 1,
-      "lastTs": 1786645317
-    },
     "0x26ff4569668ee663a70283eff5b1f5e9002d8439|2026-08-13": {
       "fromAddress": "0x26ff4569668ee663a70283eff5b1f5e9002d8439",
       "dayKey": "2026-08-13",
