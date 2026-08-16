@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-16T15:11:07.296Z",
+  "generatedAt": "2026-08-16T15:43:17.016Z",
   "market": {
-    "priceUsd": 0.077055,
-    "marketCapUsd": 207159108,
-    "volume24hUsd": 487192812,
+    "priceUsd": 0.07681,
+    "marketCapUsd": 206581003,
+    "volume24hUsd": 488766128,
     "change1hPct": -0.2,
     "change24hPct": -0.2,
     "change7dPct": -1.1
@@ -73,11 +73,11 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 208334185.7475887,
-      "pctSupply": 2.08334186,
+      "balanceXpl": 208334001.15815866,
+      "pctSupply": 2.08334001,
       "txCount": 182679,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": 162.72810944914818
+      "deltaXpl": -184.5894300341606
     },
     {
       "rank": 8,
@@ -103,11 +103,11 @@
       "rank": 10,
       "address": "0x8e88826f42a0f5f199a9c91c3798c626326730b4",
       "label": "Unit: Native Chain Treasury",
-      "balanceXpl": 146326630.01019335,
-      "pctSupply": 1.4632663,
-      "txCount": 27353,
+      "balanceXpl": 146314125.88420916,
+      "pctSupply": 1.46314126,
+      "txCount": 27354,
       "explorerUrl": "https://plasmascan.to/address/0x8e88826f42a0f5f199a9c91c3798c626326730b4",
-      "deltaXpl": 0
+      "deltaXpl": -12504.125984191895
     },
     {
       "rank": 11,
@@ -117,7 +117,7 @@
       "pctSupply": 0.80848155,
       "txCount": 39815,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": -50.70116223394871
+      "deltaXpl": 0
     },
     {
       "rank": 12,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": 0.0000012521882131518715,
+  "holderDeltaPct": -0.0001418289066770389,
   "largeTransfers": [],
   "rewardCandidates": [
     {
@@ -175,13 +175,6 @@
       "dayKey": "2026-08-13",
       "distinctRecipients": 29,
       "transferCount": 29,
-      "confidence": "low"
-    },
-    {
-      "address": "0xcfab9732aac201056ed7b5e3139077d4ef77ef65",
-      "dayKey": "2026-08-13",
-      "distinctRecipients": 22,
-      "transferCount": 22,
       "confidence": "low"
     }
   ],
@@ -214,8 +207,8 @@
     "notes": [
       "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.077055
+    "priceUsd": 0.07681
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 295
+  "scannedTxCount": 300
 }
