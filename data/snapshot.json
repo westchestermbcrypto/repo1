@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-16T21:10:12.276Z",
+  "generatedAt": "2026-08-16T21:40:43.213Z",
   "market": {
-    "priceUsd": 0.076076,
-    "marketCapUsd": 204586802,
-    "volume24hUsd": 481449771,
+    "priceUsd": 0.074702,
+    "marketCapUsd": 200813276,
+    "volume24hUsd": 473188482,
     "change1hPct": -0.1,
     "change24hPct": -0.9,
     "change7dPct": -3
@@ -73,11 +73,11 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 208606321.34144422,
-      "pctSupply": 2.08606321,
-      "txCount": 182701,
+      "balanceXpl": 209121318.43175626,
+      "pctSupply": 2.09121318,
+      "txCount": 182703,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": -59.81564316153526
+      "deltaXpl": 514997.0903120339
     },
     {
       "rank": 8,
@@ -113,11 +113,11 @@
       "rank": 11,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 81021795.10978357,
-      "pctSupply": 0.81021795,
-      "txCount": 39826,
+      "balanceXpl": 81175617.09976257,
+      "pctSupply": 0.81175617,
+      "txCount": 39828,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": 0
+      "deltaXpl": 153821.9899789989
     },
     {
       "rank": 12,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": -6.685629371857817e-7,
+  "holderDeltaPct": 0.0074754299545645,
   "largeTransfers": [],
   "rewardCandidates": [
     {
@@ -168,13 +168,6 @@
       "dayKey": "2026-08-13",
       "distinctRecipients": 19,
       "transferCount": 45,
-      "confidence": "low"
-    },
-    {
-      "address": "0x2abf34a51140029a4b67c6dc12a8aba85be0f2b9",
-      "dayKey": "2026-08-13",
-      "distinctRecipients": 29,
-      "transferCount": 29,
       "confidence": "low"
     }
   ],
@@ -207,8 +200,8 @@
     "notes": [
       "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.076076
+    "priceUsd": 0.074702
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 295
+  "scannedTxCount": 288
 }
