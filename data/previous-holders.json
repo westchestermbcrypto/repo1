@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T09:54:59.479Z",
+  "generatedAt": "2026-08-18T10:17:22.209Z",
   "holders": [
     {
       "rank": 1,
@@ -50,8 +50,8 @@
       "rank": 6,
       "address": "0x405fbc9004d857903bfd6b3357792d71a50726b0",
       "label": "LayerZero: Plasma Native OFT Adapter",
-      "balanceXpl": 265120640.138067,
-      "pctSupply": 2.6512064,
+      "balanceXpl": 265120240.138067,
+      "pctSupply": 2.6512024,
       "txCount": 5672,
       "explorerUrl": "https://plasmascan.to/address/0x405fbc9004d857903bfd6b3357792d71a50726b0"
     },
@@ -59,9 +59,9 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 208356124.72275653,
-      "pctSupply": 2.08356125,
-      "txCount": 182869,
+      "balanceXpl": 208509061.96580648,
+      "pctSupply": 2.08509062,
+      "txCount": 182871,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873"
     },
     {
