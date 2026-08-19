@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-19T05:30:01.795Z",
+  "generatedAt": "2026-08-19T05:56:46.295Z",
   "market": {
-    "priceUsd": 0.075092,
-    "marketCapUsd": 201810509,
-    "volume24hUsd": 281431027,
+    "priceUsd": 0.075085,
+    "marketCapUsd": 201839524,
+    "volume24hUsd": 279286080,
     "change1hPct": -0.7,
     "change24hPct": 0,
     "change7dPct": -3.3
@@ -67,17 +67,17 @@
       "pctSupply": 2.65082307,
       "txCount": 5672,
       "explorerUrl": "https://plasmascan.to/address/0x405fbc9004d857903bfd6b3357792d71a50726b0",
-      "deltaXpl": -248.48879998922348
+      "deltaXpl": 0
     },
     {
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 209175819.2474496,
-      "pctSupply": 2.09175819,
-      "txCount": 182939,
+      "balanceXpl": 209175805.595516,
+      "pctSupply": 2.09175806,
+      "txCount": 182941,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": -2259.0390153825283
+      "deltaXpl": -13.6519336104393
     },
     {
       "rank": 8,
@@ -103,11 +103,11 @@
       "rank": 10,
       "address": "0x8e88826f42a0f5f199a9c91c3798c626326730b4",
       "label": "Unit: Native Chain Treasury",
-      "balanceXpl": 146320775.66075677,
-      "pctSupply": 1.46320776,
-      "txCount": 27360,
+      "balanceXpl": 146321732.89176622,
+      "pctSupply": 1.46321733,
+      "txCount": 27361,
       "explorerUrl": "https://plasmascan.to/address/0x8e88826f42a0f5f199a9c91c3798c626326730b4",
-      "deltaXpl": 0
+      "deltaXpl": 957.2310094535351
     },
     {
       "rank": 11,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": -0.000028019120772050655,
+  "holderDeltaPct": 0.000010543557406426082,
   "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
@@ -192,8 +192,8 @@
     "notes": [
       "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.075092
+    "priceUsd": 0.075085
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 292
+  "scannedTxCount": 300
 }
