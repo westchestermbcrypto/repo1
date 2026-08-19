@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-19T20:50:57.999Z",
+  "generatedAt": "2026-08-19T21:16:02.042Z",
   "market": {
-    "priceUsd": 0.079902,
-    "marketCapUsd": 214746616,
-    "volume24hUsd": 70810176,
-    "change1hPct": 2.2,
-    "change24hPct": 7.1,
-    "change7dPct": 6.9
+    "priceUsd": 0.08142,
+    "marketCapUsd": 218966903,
+    "volume24hUsd": 73884573,
+    "change1hPct": -0.1,
+    "change24hPct": 7.6,
+    "change7dPct": 7.6
   },
   "holders": [
     {
@@ -73,11 +73,11 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 207698870.14647233,
-      "pctSupply": 2.0769887,
+      "balanceXpl": 207226634.9200025,
+      "pctSupply": 2.07226635,
       "txCount": 183036,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": 209370.71810236573
+      "deltaXpl": -472235.2264698446
     },
     {
       "rank": 8,
@@ -107,17 +107,17 @@
       "pctSupply": 1.46333313,
       "txCount": 27371,
       "explorerUrl": "https://plasmascan.to/address/0x8e88826f42a0f5f199a9c91c3798c626326730b4",
-      "deltaXpl": 143.6799620091915
+      "deltaXpl": 0
     },
     {
       "rank": 11,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 85971489.41510957,
-      "pctSupply": 0.85971489,
-      "txCount": 40158,
+      "balanceXpl": 86324668.35914363,
+      "pctSupply": 0.86324668,
+      "txCount": 40170,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": 175175.30488151312
+      "deltaXpl": 353178.9440340549
     },
     {
       "rank": 12,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": 0.004297921296559292,
+  "holderDeltaPct": -0.001330091594766144,
   "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
@@ -192,7 +192,7 @@
     "notes": [
       "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.079902
+    "priceUsd": 0.08142
   },
   "thresholdXpl": 250000,
   "scannedTxCount": 296
