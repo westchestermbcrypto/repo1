@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-19T23:13:22.041Z",
+  "generatedAt": "2026-08-19T23:43:21.367Z",
   "market": {
-    "priceUsd": 0.080629,
-    "marketCapUsd": 216782313,
-    "volume24hUsd": 74290974,
+    "priceUsd": 0.080545,
+    "marketCapUsd": 216579076,
+    "volume24hUsd": 74036501,
     "change1hPct": -1.2,
     "change24hPct": 7.3,
     "change7dPct": 9.8
@@ -73,11 +73,11 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 207505557.75947946,
-      "pctSupply": 2.07505558,
-      "txCount": 183042,
+      "balanceXpl": 207663330.68691227,
+      "pctSupply": 2.07663331,
+      "txCount": 183044,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": -2740.0874747037888
+      "deltaXpl": 157772.9274328053
     },
     {
       "rank": 8,
@@ -113,11 +113,11 @@
       "rank": 11,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 86424045.79858638,
-      "pctSupply": 0.86424046,
-      "txCount": 40182,
+      "balanceXpl": 86326751.29327615,
+      "pctSupply": 0.86326751,
+      "txCount": 40186,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": 0
+      "deltaXpl": -97294.50531023741
     },
     {
       "rank": 12,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": -0.00003060727762957701,
+  "holderDeltaPct": 0.0006755552295646856,
   "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
@@ -186,13 +186,13 @@
     }
   ],
   "signal": {
-    "bias": "neutral",
-    "score": 0,
-    "netExchangeFlowXpl": 0,
+    "bias": "accumulation-leaning",
+    "score": 1,
+    "netExchangeFlowXpl": 200,
     "notes": [
-      "No labeled exchange flow detected in the scanned window."
+      "Net outflow from labeled exchange wallets over the scanned window (200 XPL) -- tokens moving to self-custody, historically a mild accumulation signal."
     ],
-    "priceUsd": 0.080629
+    "priceUsd": 0.080545
   },
   "thresholdXpl": 250000,
   "scannedTxCount": 296
