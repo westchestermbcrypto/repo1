@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-20T23:15:54.600Z",
+  "generatedAt": "2026-08-20T23:46:40.242Z",
   "market": {
-    "priceUsd": 0.087474,
-    "marketCapUsd": 235267295,
-    "volume24hUsd": 156071108,
+    "priceUsd": 0.08869,
+    "marketCapUsd": 238698273,
+    "volume24hUsd": 159347884,
     "change1hPct": 0,
     "change24hPct": 7.5,
     "change7dPct": 16.4
@@ -73,11 +73,11 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 205515465.19789618,
-      "pctSupply": 2.05515465,
-      "txCount": 183246,
+      "balanceXpl": 205110235.56818116,
+      "pctSupply": 2.05110236,
+      "txCount": 183253,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": 7159.265739351511
+      "deltaXpl": -405229.6297150254
     },
     {
       "rank": 8,
@@ -113,11 +113,11 @@
       "rank": 11,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 90419365.29096353,
-      "pctSupply": 0.90419365,
-      "txCount": 40396,
+      "balanceXpl": 90718009.35849823,
+      "pctSupply": 0.90718009,
+      "txCount": 40409,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": 164554.5942904353
+      "deltaXpl": 298644.06753470004
     },
     {
       "rank": 12,
@@ -160,14 +160,14 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": 0.0019174793423732774,
+  "holderDeltaPct": -0.001190187529743593,
   "largeTransfers": [],
   "rewardCandidates": [
     {
       "address": "0x2abf34a51140029a4b67c6dc12a8aba85be0f2b9",
       "dayKey": "2026-08-20",
-      "distinctRecipients": 59,
-      "transferCount": 59,
+      "distinctRecipients": 63,
+      "transferCount": 63,
       "confidence": "medium"
     },
     {
@@ -180,8 +180,8 @@
     {
       "address": "0x1ab4973a48dc892cd9971ece8e01dcc7688f8f23",
       "dayKey": "2026-08-20",
-      "distinctRecipients": 28,
-      "transferCount": 110,
+      "distinctRecipients": 29,
+      "transferCount": 113,
       "confidence": "low"
     },
     {
@@ -235,8 +235,8 @@
     "notes": [
       "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.087474
+    "priceUsd": 0.08869
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 287
+  "scannedTxCount": 300
 }
