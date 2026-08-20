@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-20T15:55:45.752Z",
+  "generatedAt": "2026-08-20T16:23:26.995Z",
   "market": {
-    "priceUsd": 0.087223,
-    "marketCapUsd": 234355299,
-    "volume24hUsd": 145332815,
-    "change1hPct": 2.4,
-    "change24hPct": 9.8,
-    "change7dPct": 13.4
+    "priceUsd": 0.088215,
+    "marketCapUsd": 236866854,
+    "volume24hUsd": 149383584,
+    "change1hPct": 3.6,
+    "change24hPct": 13.8,
+    "change7dPct": 17.4
   },
   "holders": [
     {
@@ -73,11 +73,11 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 205762785.76096627,
-      "pctSupply": 2.05762786,
-      "txCount": 183168,
+      "balanceXpl": 205746987.95424756,
+      "pctSupply": 2.05746988,
+      "txCount": 183174,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": -525419.2303131819
+      "deltaXpl": -15797.806718707085
     },
     {
       "rank": 8,
@@ -113,11 +113,11 @@
       "rank": 11,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 88180450.19974999,
-      "pctSupply": 0.8818045,
-      "txCount": 40314,
+      "balanceXpl": 88794713.21479902,
+      "pctSupply": 0.88794713,
+      "txCount": 40331,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": 477675.60805022717
+      "deltaXpl": 614263.0150490254
     },
     {
       "rank": 12,
@@ -160,14 +160,26 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": -0.0005332978303382208,
-  "largeTransfers": [],
+  "holderDeltaPct": 0.006684911703468745,
+  "largeTransfers": [
+    {
+      "txHash": "0xd36ba354398c53d0804cf70641cf57079f0a1e91bf27ed24a56a0929a1d57221",
+      "ts": 1787242974,
+      "fromAddress": "0x3e18487f61d8e82e0ee34fcdfddeb590f8ce4872",
+      "toAddress": "0x300226f054150e787a797f1fd07f0e38a4a655f4",
+      "amountXpl": 300000,
+      "category": "whale_unlabeled",
+      "fromLabel": null,
+      "toLabel": null,
+      "explorerTxUrl": "https://plasmascan.to/tx/0xd36ba354398c53d0804cf70641cf57079f0a1e91bf27ed24a56a0929a1d57221"
+    }
+  ],
   "rewardCandidates": [
     {
       "address": "0x2abf34a51140029a4b67c6dc12a8aba85be0f2b9",
       "dayKey": "2026-08-20",
-      "distinctRecipients": 36,
-      "transferCount": 36,
+      "distinctRecipients": 38,
+      "transferCount": 38,
       "confidence": "medium"
     },
     {
@@ -181,7 +193,7 @@
       "address": "0x1ab4973a48dc892cd9971ece8e01dcc7688f8f23",
       "dayKey": "2026-08-20",
       "distinctRecipients": 24,
-      "transferCount": 77,
+      "transferCount": 79,
       "confidence": "low"
     },
     {
@@ -221,8 +233,8 @@
     "notes": [
       "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.087223
+    "priceUsd": 0.088215
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 291
+  "scannedTxCount": 294
 }
