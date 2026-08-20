@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-20T11:49:25.408Z",
+  "generatedAt": "2026-08-20T12:24:42.617Z",
   "market": {
-    "priceUsd": 0.083729,
-    "marketCapUsd": 225310004,
-    "volume24hUsd": 120154702,
-    "change1hPct": 1.1,
+    "priceUsd": 0.082454,
+    "marketCapUsd": 221620595,
+    "volume24hUsd": 122110235,
+    "change1hPct": 0.5,
     "change24hPct": 9.3,
     "change7dPct": 10.4
   },
@@ -73,11 +73,11 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 206634047.3058362,
-      "pctSupply": 2.06634047,
-      "txCount": 183114,
+      "balanceXpl": 206752354.8041382,
+      "pctSupply": 2.06752355,
+      "txCount": 183122,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": -42422.540429890156
+      "deltaXpl": 118307.49830201268
     },
     {
       "rank": 8,
@@ -113,11 +113,11 @@
       "rank": 11,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 85939783.6791634,
-      "pctSupply": 0.85939784,
-      "txCount": 40254,
+      "balanceXpl": 86031523.84718193,
+      "pctSupply": 0.86031524,
+      "txCount": 40258,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": 125702.42066851258
+      "deltaXpl": 91740.16801853478
     },
     {
       "rank": 12,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": 0.0009303970825209894,
+  "holderDeltaPct": 0.0023466162191956934,
   "largeTransfers": [],
   "rewardCandidates": [
     {
@@ -180,8 +180,8 @@
     {
       "address": "0x1ab4973a48dc892cd9971ece8e01dcc7688f8f23",
       "dayKey": "2026-08-20",
-      "distinctRecipients": 17,
-      "transferCount": 54,
+      "distinctRecipients": 18,
+      "transferCount": 56,
       "confidence": "low"
     },
     {
@@ -221,8 +221,8 @@
     "notes": [
       "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.083729
+    "priceUsd": 0.082454
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 300
+  "scannedTxCount": 295
 }
