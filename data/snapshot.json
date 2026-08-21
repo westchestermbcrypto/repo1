@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-21T16:20:12.671Z",
+  "generatedAt": "2026-08-21T16:58:17.882Z",
   "market": {
-    "priceUsd": 0.103808,
-    "marketCapUsd": 279128508,
-    "volume24hUsd": 835587925,
+    "priceUsd": 0.105016,
+    "marketCapUsd": 282132859,
+    "volume24hUsd": 842138483,
     "change1hPct": -0.5,
     "change24hPct": 19.8,
     "change7dPct": 37.2
@@ -73,11 +73,11 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 199328552.30351892,
-      "pctSupply": 1.99328552,
-      "txCount": 183871,
+      "balanceXpl": 199121830.98257965,
+      "pctSupply": 1.99121831,
+      "txCount": 183891,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": 8813.694558620453
+      "deltaXpl": -206721.32093927264
     },
     {
       "rank": 8,
@@ -107,17 +107,17 @@
       "pctSupply": 1.45855522,
       "txCount": 27434,
       "explorerUrl": "https://plasmascan.to/address/0x8e88826f42a0f5f199a9c91c3798c626326730b4",
-      "deltaXpl": -1758684.8612071872
+      "deltaXpl": 0
     },
     {
       "rank": 11,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 110483140.70175712,
-      "pctSupply": 1.10483141,
-      "txCount": 41037,
+      "balanceXpl": 110953406.03666936,
+      "pctSupply": 1.10953406,
+      "txCount": 41049,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": 407578.46159270406
+      "deltaXpl": 470265.3349122405
     },
     {
       "rank": 12,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": -0.015010636829263034,
+  "holderDeltaPct": 0.0029476114798492607,
   "largeTransfers": [],
   "rewardCandidates": [
     {
@@ -235,7 +235,7 @@
     "notes": [
       "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.103808
+    "priceUsd": 0.105016
   },
   "thresholdXpl": 250000,
   "scannedTxCount": 294
