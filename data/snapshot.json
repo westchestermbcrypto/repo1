@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-22T18:14:21.519Z",
+  "generatedAt": "2026-08-22T18:54:30.754Z",
   "market": {
-    "priceUsd": 0.093092,
-    "marketCapUsd": 250405066,
-    "volume24hUsd": 123115312,
+    "priceUsd": 0.093216,
+    "marketCapUsd": 250642290,
+    "volume24hUsd": 126591807,
     "change1hPct": -0.9,
     "change24hPct": -10.1,
     "change7dPct": 22.1
@@ -83,11 +83,11 @@
       "rank": 8,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 202379116.335902,
-      "pctSupply": 2.02379116,
-      "txCount": 184325,
+      "balanceXpl": 203481356.95587555,
+      "pctSupply": 2.03481357,
+      "txCount": 184335,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": 8692.555478304625
+      "deltaXpl": 1102240.6199735403
     },
     {
       "rank": 9,
@@ -123,11 +123,11 @@
       "rank": 12,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 122950388.63754123,
-      "pctSupply": 1.22950389,
-      "txCount": 41523,
+      "balanceXpl": 122956110.9045294,
+      "pctSupply": 1.22956111,
+      "txCount": 41537,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": -162029.6657691747
+      "deltaXpl": 5722.266988158226
     },
     {
       "rank": 13,
@@ -151,16 +151,16 @@
     },
     {
       "rank": 15,
-      "address": "0x8741b106e9738a6971ad07dabcfe95ff66337b51",
-      "label": "Binance 122",
-      "balanceXpl": 63658240.98217232,
-      "pctSupply": 0.63658241,
-      "txCount": 2518512,
-      "explorerUrl": "https://plasmascan.to/address/0x8741b106e9738a6971ad07dabcfe95ff66337b51",
-      "deltaXpl": 111725.86213517189
+      "address": "0x24d71d5bfa368ae6494465cffeeee2e56675e729",
+      "label": null,
+      "balanceXpl": 62500000,
+      "pctSupply": 0.625,
+      "txCount": 1,
+      "explorerUrl": "https://plasmascan.to/address/0x24d71d5bfa368ae6494465cffeeee2e56675e729",
+      "deltaXpl": null
     }
   ],
-  "holderDeltaPct": -0.0004692305484632499,
+  "holderDeltaPct": -0.0005669651821963318,
   "largeTransfers": [],
   "rewardCandidates": [
     {
@@ -235,8 +235,8 @@
     "notes": [
       "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.093092
+    "priceUsd": 0.093216
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 295
+  "scannedTxCount": 293
 }
