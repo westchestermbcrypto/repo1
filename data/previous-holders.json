@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T09:49:50.501Z",
+  "generatedAt": "2026-08-23T10:12:50.391Z",
   "holders": [
     {
       "rank": 1,
@@ -59,18 +59,18 @@
       "rank": 7,
       "address": "0x9374437baf4550929a5967d77d4ff979b88c970f",
       "label": null,
-      "balanceXpl": 250007500.499979,
-      "pctSupply": 2.500075,
-      "txCount": 28,
+      "balanceXpl": 249997500.499958,
+      "pctSupply": 2.499975,
+      "txCount": 30,
       "explorerUrl": "https://plasmascan.to/address/0x9374437baf4550929a5967d77d4ff979b88c970f"
     },
     {
       "rank": 8,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 203562198.23333192,
-      "pctSupply": 2.03562198,
-      "txCount": 184454,
+      "balanceXpl": 203236130.6728981,
+      "pctSupply": 2.03236131,
+      "txCount": 184466,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873"
     },
     {
@@ -104,9 +104,9 @@
       "rank": 12,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 119088862.53782697,
-      "pctSupply": 1.19088863,
-      "txCount": 41635,
+      "balanceXpl": 118951716.41450909,
+      "pctSupply": 1.18951716,
+      "txCount": 41641,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca"
     },
     {
@@ -129,12 +129,12 @@
     },
     {
       "rank": 15,
-      "address": "0x24d71d5bfa368ae6494465cffeeee2e56675e729",
-      "label": null,
-      "balanceXpl": 62500000,
-      "pctSupply": 0.625,
-      "txCount": 1,
-      "explorerUrl": "https://plasmascan.to/address/0x24d71d5bfa368ae6494465cffeeee2e56675e729"
+      "address": "0x8741b106e9738a6971ad07dabcfe95ff66337b51",
+      "label": "Binance 122",
+      "balanceXpl": 62906192.032419346,
+      "pctSupply": 0.62906192,
+      "txCount": 2524732,
+      "explorerUrl": "https://plasmascan.to/address/0x8741b106e9738a6971ad07dabcfe95ff66337b51"
     }
   ]
 }
