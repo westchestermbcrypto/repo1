@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T17:11:50.621Z",
+  "generatedAt": "2026-08-23T17:41:37.693Z",
   "holders": [
     {
       "rank": 1,
@@ -59,9 +59,9 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 201331022.16045037,
-      "pctSupply": 2.01331022,
-      "txCount": 184563,
+      "balanceXpl": 201600545.92610434,
+      "pctSupply": 2.01600546,
+      "txCount": 184571,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873"
     },
     {
@@ -77,9 +77,9 @@
       "rank": 9,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 177134302.73769492,
-      "pctSupply": 1.77134303,
-      "txCount": 41929,
+      "balanceXpl": 182075987.89282635,
+      "pctSupply": 1.82075988,
+      "txCount": 41937,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca"
     },
     {
@@ -102,21 +102,21 @@
     },
     {
       "rank": 12,
+      "address": "0x8741b106e9738a6971ad07dabcfe95ff66337b51",
+      "label": "Binance 122",
+      "balanceXpl": 119688402.84620564,
+      "pctSupply": 1.19688403,
+      "txCount": 2531344,
+      "explorerUrl": "https://plasmascan.to/address/0x8741b106e9738a6971ad07dabcfe95ff66337b51"
+    },
+    {
+      "rank": 13,
       "address": "0x9374437baf4550929a5967d77d4ff979b88c970f",
       "label": null,
       "balanceXpl": 115036944.4996849,
       "pctSupply": 1.15036944,
       "txCount": 46,
       "explorerUrl": "https://plasmascan.to/address/0x9374437baf4550929a5967d77d4ff979b88c970f"
-    },
-    {
-      "rank": 13,
-      "address": "0x8741b106e9738a6971ad07dabcfe95ff66337b51",
-      "label": "Binance 122",
-      "balanceXpl": 114857851.93886128,
-      "pctSupply": 1.14857852,
-      "txCount": 2531012,
-      "explorerUrl": "https://plasmascan.to/address/0x8741b106e9738a6971ad07dabcfe95ff66337b51"
     },
     {
       "rank": 14,
