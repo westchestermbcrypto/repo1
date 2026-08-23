@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-23T07:08:41.248Z",
+  "generatedAt": "2026-08-23T07:54:00.855Z",
   "market": {
-    "priceUsd": 0.091008,
-    "marketCapUsd": 244600632,
-    "volume24hUsd": 72943880,
+    "priceUsd": 0.091606,
+    "marketCapUsd": 245704213,
+    "volume24hUsd": 68738211,
     "change1hPct": -0.1,
     "change24hPct": -5.8,
     "change7dPct": 17.1
@@ -83,11 +83,11 @@
       "rank": 8,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 204106036.24792928,
-      "pctSupply": 2.04106036,
-      "txCount": 184433,
+      "balanceXpl": 204121689.40710118,
+      "pctSupply": 2.04121689,
+      "txCount": 184437,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": -69875.02445963025
+      "deltaXpl": 15653.159171909094
     },
     {
       "rank": 9,
@@ -117,17 +117,17 @@
       "pctSupply": 1.46016637,
       "txCount": 27503,
       "explorerUrl": "https://plasmascan.to/address/0x8e88826f42a0f5f199a9c91c3798c626326730b4",
-      "deltaXpl": -85908.83933928609
+      "deltaXpl": 0
     },
     {
       "rank": 12,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 118607585.66385211,
-      "pctSupply": 1.18607586,
-      "txCount": 41616,
+      "balanceXpl": 118691093.74421111,
+      "pctSupply": 1.18691094,
+      "txCount": 41617,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": 0
+      "deltaXpl": 83508.08035899699
     },
     {
       "rank": 13,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": -0.0017572817317148335,
+  "holderDeltaPct": 0.0011185837394474837,
   "largeTransfers": [],
   "rewardCandidates": [
     {
@@ -228,8 +228,8 @@
     "notes": [
       "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.091008
+    "priceUsd": 0.091606
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 295
+  "scannedTxCount": 296
 }
