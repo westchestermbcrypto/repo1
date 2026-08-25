@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-25T09:57:58.863Z",
+  "generatedAt": "2026-08-25T10:28:59.796Z",
   "market": {
-    "priceUsd": 0.094535,
-    "marketCapUsd": 262465608,
-    "volume24hUsd": 70988640,
+    "priceUsd": 0.09462,
+    "marketCapUsd": 262721676,
+    "volume24hUsd": 69891394,
     "change1hPct": -0.4,
-    "change24hPct": -5.55302,
-    "change7dPct": 23.6
+    "change24hPct": -5.72415,
+    "change7dPct": 22.7
   },
   "holders": [
     {
@@ -73,11 +73,11 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 204239036.63372108,
-      "pctSupply": 2.04239037,
-      "txCount": 184977,
+      "balanceXpl": 204227805.72733283,
+      "pctSupply": 2.04227806,
+      "txCount": 184989,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": 165207.67971616983
+      "deltaXpl": -11230.906388252974
     },
     {
       "rank": 8,
@@ -97,7 +97,7 @@
       "pctSupply": 1.80043811,
       "txCount": 42330,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": -165482.87317332625
+      "deltaXpl": 0
     },
     {
       "rank": 10,
@@ -117,7 +117,7 @@
       "pctSupply": 1.50095012,
       "txCount": 27647,
       "explorerUrl": "https://plasmascan.to/address/0x8e88826f42a0f5f199a9c91c3798c626326730b4",
-      "deltaXpl": 13818.49995586276
+      "deltaXpl": 0
     },
     {
       "rank": 12,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": 0.00015287327971901852,
+  "holderDeltaPct": -0.00012677132200470388,
   "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
@@ -186,14 +186,14 @@
     }
   ],
   "signal": {
-    "bias": "accumulation-leaning",
-    "score": 1,
-    "netExchangeFlowXpl": 33230,
+    "bias": "neutral",
+    "score": 0,
+    "netExchangeFlowXpl": 0,
     "notes": [
-      "Net outflow from labeled exchange wallets over the scanned window (33,230 XPL) -- tokens moving to self-custody, historically a mild accumulation signal."
+      "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.094535
+    "priceUsd": 0.09462
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 295
+  "scannedTxCount": 293
 }
