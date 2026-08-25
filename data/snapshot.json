@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-25T19:52:32.993Z",
+  "generatedAt": "2026-08-25T20:16:47.762Z",
   "market": {
-    "priceUsd": 0.091794,
-    "marketCapUsd": 254947821,
-    "volume24hUsd": 54515716,
-    "change1hPct": -0.1,
-    "change24hPct": -4.12683,
-    "change7dPct": 22.9
+    "priceUsd": 0.091805,
+    "marketCapUsd": 255023809,
+    "volume24hUsd": 54784797,
+    "change1hPct": -1.1,
+    "change24hPct": -4.20047,
+    "change7dPct": 21.4
   },
   "holders": [
     {
@@ -73,11 +73,11 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 204943907.31170142,
-      "pctSupply": 2.04943907,
-      "txCount": 185066,
+      "balanceXpl": 204999136.09219068,
+      "pctSupply": 2.04999136,
+      "txCount": 185069,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": 245705.10158723593
+      "deltaXpl": 55228.78048926592
     },
     {
       "rank": 8,
@@ -103,11 +103,11 @@
       "rank": 10,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 172772268.3341317,
-      "pctSupply": 1.72772268,
-      "txCount": 42419,
+      "balanceXpl": 172715073.2640897,
+      "pctSupply": 1.72715073,
+      "txCount": 42421,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": -98683.66503709555
+      "deltaXpl": -57195.07004198432
     },
     {
       "rank": 11,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": 0.001659398650111974,
+  "holderDeltaPct": -0.000022192709873440934,
   "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
@@ -186,13 +186,13 @@
     }
   ],
   "signal": {
-    "bias": "accumulation-leaning",
-    "score": 1,
-    "netExchangeFlowXpl": 40589.72883486,
+    "bias": "neutral",
+    "score": 0,
+    "netExchangeFlowXpl": 0,
     "notes": [
-      "Net outflow from labeled exchange wallets over the scanned window (40,590 XPL) -- tokens moving to self-custody, historically a mild accumulation signal."
+      "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.091794
+    "priceUsd": 0.091805
   },
   "thresholdXpl": 250000,
   "scannedTxCount": 296
