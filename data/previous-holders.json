@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T10:59:23.498Z",
+  "generatedAt": "2026-08-25T11:27:46.007Z",
   "holders": [
     {
       "rank": 1,
@@ -59,8 +59,8 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 204241982.20425388,
-      "pctSupply": 2.04241982,
+      "balanceXpl": 204246976.60085422,
+      "pctSupply": 2.04246977,
       "txCount": 184992,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873"
     },
