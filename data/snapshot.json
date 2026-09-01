@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-01T20:28:27.797Z",
+  "generatedAt": "2026-09-01T22:53:20.135Z",
   "market": {
-    "priceUsd": 0.084227,
-    "marketCapUsd": 233756715,
-    "volume24hUsd": 67751160,
-    "change1hPct": 1.9,
-    "change24hPct": -1.65286,
-    "change7dPct": -8.8
+    "priceUsd": 0.083811,
+    "marketCapUsd": 232809561,
+    "volume24hUsd": 66538278,
+    "change1hPct": 0.3,
+    "change24hPct": -0.47321,
+    "change7dPct": -6.4
   },
   "holders": [],
-  "holderDeltaPct": -100,
+  "holderDeltaPct": null,
   "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
@@ -36,13 +36,12 @@
   ],
   "signal": {
     "bias": "neutral",
-    "score": -0.5,
+    "score": 0,
     "netExchangeFlowXpl": 0,
     "notes": [
-      "No labeled exchange flow detected in the scanned window.",
-      "Top-15 holder combined balance is down -100.00% vs. the prior snapshot -- whales distributing."
+      "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.084227
+    "priceUsd": 0.083811
   },
   "thresholdXpl": 250000,
   "scannedTxCount": 0
