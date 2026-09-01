@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-01T08:59:25.528Z",
+  "generatedAt": "2026-09-01T13:58:00.480Z",
   "market": {
-    "priceUsd": 0.082416,
-    "marketCapUsd": 228774335,
-    "volume24hUsd": 44663103,
+    "priceUsd": 0.084137,
+    "marketCapUsd": 233714583,
+    "volume24hUsd": 54223914,
     "change1hPct": -0.2,
-    "change24hPct": -6.9585,
-    "change7dPct": -13.7
+    "change24hPct": -0.56868,
+    "change7dPct": -11.8
   },
   "holders": [
     {
@@ -71,23 +71,23 @@
     },
     {
       "rank": 7,
-      "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "label": "Plasma: WXPL Token",
-      "balanceXpl": 207419806.59284577,
-      "pctSupply": 2.07419807,
-      "txCount": 186490,
-      "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": 511641.9062205255
+      "address": "0xf2b1925c89d253b3103a6b6694681ef9f9864f4f",
+      "label": null,
+      "balanceXpl": 208434586.0176478,
+      "pctSupply": 2.08434586,
+      "txCount": 9855,
+      "explorerUrl": "https://plasmascan.to/address/0xf2b1925c89d253b3103a6b6694681ef9f9864f4f",
+      "deltaXpl": 4556912.752208799
     },
     {
       "rank": 8,
-      "address": "0xf2b1925c89d253b3103a6b6694681ef9f9864f4f",
-      "label": null,
-      "balanceXpl": 203877673.265439,
-      "pctSupply": 2.03877673,
-      "txCount": 9820,
-      "explorerUrl": "https://plasmascan.to/address/0xf2b1925c89d253b3103a6b6694681ef9f9864f4f",
-      "deltaXpl": 2480640.240270287
+      "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
+      "label": "Plasma: WXPL Token",
+      "balanceXpl": 207013974.67223647,
+      "pctSupply": 2.07013975,
+      "txCount": 186563,
+      "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
+      "deltaXpl": -405831.92060929537
     },
     {
       "rank": 9,
@@ -103,11 +103,11 @@
       "rank": 10,
       "address": "0x8e88826f42a0f5f199a9c91c3798c626326730b4",
       "label": "Unit: Native Chain Treasury",
-      "balanceXpl": 150802780.71504688,
-      "pctSupply": 1.50802781,
-      "txCount": 27812,
+      "balanceXpl": 150844428.68599883,
+      "pctSupply": 1.50844429,
+      "txCount": 27823,
       "explorerUrl": "https://plasmascan.to/address/0x8e88826f42a0f5f199a9c91c3798c626326730b4",
-      "deltaXpl": -92717.9985011518
+      "deltaXpl": 41647.97095194459
     },
     {
       "rank": 11,
@@ -123,11 +123,11 @@
       "rank": 12,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 133571631.5347642,
-      "pctSupply": 1.33571632,
-      "txCount": 44519,
+      "balanceXpl": 130304449.6752997,
+      "pctSupply": 1.3030445,
+      "txCount": 44656,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": -3603057.3166671395
+      "deltaXpl": -3267181.8594644964
     },
     {
       "rank": 13,
@@ -151,16 +151,16 @@
     },
     {
       "rank": 15,
-      "address": "0x8741b106e9738a6971ad07dabcfe95ff66337b51",
-      "label": "Binance 122",
-      "balanceXpl": 69282015.80084673,
-      "pctSupply": 0.69282016,
-      "txCount": 2636608,
-      "explorerUrl": "https://plasmascan.to/address/0x8741b106e9738a6971ad07dabcfe95ff66337b51",
-      "deltaXpl": -1257565.4852887243
+      "address": "0x9374437baf4550929a5967d77d4ff979b88c970f",
+      "label": null,
+      "balanceXpl": 67036944.499600895,
+      "pctSupply": 0.67036944,
+      "txCount": 52,
+      "explorerUrl": "https://plasmascan.to/address/0x9374437baf4550929a5967d77d4ff979b88c970f",
+      "deltaXpl": null
     }
   ],
-  "holderDeltaPct": -0.02236369904303322,
+  "holderDeltaPct": -0.015051077868580526,
   "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
@@ -192,8 +192,8 @@
     "notes": [
       "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.082416
+    "priceUsd": 0.084137
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 295
+  "scannedTxCount": 291
 }
