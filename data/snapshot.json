@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-02T13:56:35.400Z",
+  "generatedAt": "2026-09-02T17:32:34.616Z",
   "market": {
-    "priceUsd": 0.082528,
-    "marketCapUsd": 229423676,
-    "volume24hUsd": 53413811,
-    "change1hPct": -1,
-    "change24hPct": -1.9217,
-    "change7dPct": -7.5
+    "priceUsd": 0.081691,
+    "marketCapUsd": 226878188,
+    "volume24hUsd": 49100487,
+    "change1hPct": -1.1,
+    "change24hPct": -5.90562,
+    "change7dPct": -2.8
   },
   "holders": [
     {
@@ -73,11 +73,11 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 207840316.67709273,
-      "pctSupply": 2.07840317,
-      "txCount": 186769,
+      "balanceXpl": 208170375.74089622,
+      "pctSupply": 2.08170376,
+      "txCount": 186805,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": 379839.3630498946
+      "deltaXpl": 330059.063803494
     },
     {
       "rank": 8,
@@ -103,11 +103,11 @@
       "rank": 10,
       "address": "0x8e88826f42a0f5f199a9c91c3798c626326730b4",
       "label": "Unit: Native Chain Treasury",
-      "balanceXpl": 150753344.16984877,
-      "pctSupply": 1.50753344,
-      "txCount": 27830,
+      "balanceXpl": 150738271.55767146,
+      "pctSupply": 1.50738272,
+      "txCount": 27835,
       "explorerUrl": "https://plasmascan.to/address/0x8e88826f42a0f5f199a9c91c3798c626326730b4",
-      "deltaXpl": 0
+      "deltaXpl": -15072.612177312374
     },
     {
       "rank": 11,
@@ -123,11 +123,11 @@
       "rank": 12,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 131618176.78875326,
-      "pctSupply": 1.31618177,
-      "txCount": 44942,
+      "balanceXpl": 131250280.4317855,
+      "pctSupply": 1.3125028,
+      "txCount": 44978,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": 531331.3866380602
+      "deltaXpl": -367896.3569677621
     },
     {
       "rank": 13,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": 0.010396869914384632,
+  "holderDeltaPct": -0.0006036631621967415,
   "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
@@ -192,7 +192,7 @@
     "notes": [
       "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.082528
+    "priceUsd": 0.081691
   },
   "thresholdXpl": 250000,
   "scannedTxCount": 288
