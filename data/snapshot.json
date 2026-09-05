@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-05T16:22:54.481Z",
+  "generatedAt": "2026-09-05T18:27:20.607Z",
   "market": {
-    "priceUsd": 0.093522,
-    "marketCapUsd": 259778258,
-    "volume24hUsd": 42702873,
-    "change1hPct": -1,
-    "change24hPct": 0.05689,
-    "change7dPct": 7.9
+    "priceUsd": 0.093118,
+    "marketCapUsd": 258752279,
+    "volume24hUsd": 40494505,
+    "change1hPct": -0.1,
+    "change24hPct": -0.26302,
+    "change7dPct": 8
   },
   "holders": [
     {
@@ -73,11 +73,11 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 206881992.38780525,
-      "pctSupply": 2.06881992,
-      "txCount": 187313,
+      "balanceXpl": 206464370.86192018,
+      "pctSupply": 2.06464371,
+      "txCount": 187321,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": 188988.09790945053
+      "deltaXpl": -417621.52588507533
     },
     {
       "rank": 8,
@@ -103,11 +103,11 @@
       "rank": 10,
       "address": "0x8e88826f42a0f5f199a9c91c3798c626326730b4",
       "label": "Unit: Native Chain Treasury",
-      "balanceXpl": 165460391.58497977,
-      "pctSupply": 1.65460392,
-      "txCount": 28102,
+      "balanceXpl": 165474956.58483145,
+      "pctSupply": 1.65474957,
+      "txCount": 28103,
       "explorerUrl": "https://plasmascan.to/address/0x8e88826f42a0f5f199a9c91c3798c626326730b4",
-      "deltaXpl": 63954.44717231393
+      "deltaXpl": 14564.999851673841
     },
     {
       "rank": 11,
@@ -123,21 +123,21 @@
       "rank": 12,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 144960726.43993995,
-      "pctSupply": 1.44960726,
-      "txCount": 45736,
+      "balanceXpl": 144844286.13123193,
+      "pctSupply": 1.44844286,
+      "txCount": 45748,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": -5601.8656050264835
+      "deltaXpl": -116440.3087080121
     },
     {
       "rank": 13,
       "address": "0x8741b106e9738a6971ad07dabcfe95ff66337b51",
       "label": "Binance 122",
-      "balanceXpl": 91655325.19145256,
-      "pctSupply": 0.91655325,
-      "txCount": 2690897,
+      "balanceXpl": 92019358.55391705,
+      "pctSupply": 0.92019359,
+      "txCount": 2692306,
       "explorerUrl": "https://plasmascan.to/address/0x8741b106e9738a6971ad07dabcfe95ff66337b51",
-      "deltaXpl": 298575.51947134733
+      "deltaXpl": 364033.36246448755
     },
     {
       "rank": 14,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": 0.00620631601754991,
+  "holderDeltaPct": -0.001767296082682149,
   "largeTransfers": [],
   "rewardCandidates": [
     {
@@ -200,8 +200,8 @@
     "notes": [
       "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.093522
+    "priceUsd": 0.093118
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 294
+  "scannedTxCount": 295
 }
