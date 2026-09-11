@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-11T01:14:47.710Z",
+  "generatedAt": "2026-09-11T06:12:57.808Z",
   "market": {
-    "priceUsd": 0.084801,
-    "marketCapUsd": 235546448,
-    "volume24hUsd": 38865495,
-    "change1hPct": 0.7,
-    "change24hPct": -3.98978,
-    "change7dPct": -12.2
+    "priceUsd": 0.086439,
+    "marketCapUsd": 240121151,
+    "volume24hUsd": 35386053,
+    "change1hPct": 0.3,
+    "change24hPct": -2.30845,
+    "change7dPct": -7.7
   },
   "holders": [
     {
@@ -73,21 +73,21 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 214288613.08005697,
-      "pctSupply": 2.14288613,
-      "txCount": 188287,
+      "balanceXpl": 214232242.29378945,
+      "pctSupply": 2.14232242,
+      "txCount": 188339,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": -42822.553183972836
+      "deltaXpl": -56370.786267519
     },
     {
       "rank": 8,
       "address": "0xf2b1925c89d253b3103a6b6694681ef9f9864f4f",
       "label": null,
-      "balanceXpl": 193709813.46968308,
-      "pctSupply": 1.93709813,
-      "txCount": 10067,
+      "balanceXpl": 194508479.2263914,
+      "pctSupply": 1.94508479,
+      "txCount": 10081,
       "explorerUrl": "https://plasmascan.to/address/0xf2b1925c89d253b3103a6b6694681ef9f9864f4f",
-      "deltaXpl": 1535403.6436083317
+      "deltaXpl": 798665.756708324
     },
     {
       "rank": 9,
@@ -103,11 +103,11 @@
       "rank": 10,
       "address": "0x8e88826f42a0f5f199a9c91c3798c626326730b4",
       "label": "Unit: Native Chain Treasury",
-      "balanceXpl": 162719757.88735187,
-      "pctSupply": 1.62719758,
-      "txCount": 28239,
+      "balanceXpl": 162734339.88721383,
+      "pctSupply": 1.6273434,
+      "txCount": 28240,
       "explorerUrl": "https://plasmascan.to/address/0x8e88826f42a0f5f199a9c91c3798c626326730b4",
-      "deltaXpl": 0
+      "deltaXpl": 14581.999861955643
     },
     {
       "rank": 11,
@@ -123,21 +123,21 @@
       "rank": 12,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 113776078.09763326,
-      "pctSupply": 1.13776078,
-      "txCount": 47149,
+      "balanceXpl": 113552387.23732914,
+      "pctSupply": 1.13552387,
+      "txCount": 47175,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": -70309.26970843971
+      "deltaXpl": -223690.8603041172
     },
     {
       "rank": 13,
       "address": "0x8741b106e9738a6971ad07dabcfe95ff66337b51",
       "label": "Binance 122",
-      "balanceXpl": 95643911.8934406,
-      "pctSupply": 0.95643912,
-      "txCount": 2762092,
+      "balanceXpl": 94827299.70731191,
+      "pctSupply": 0.948273,
+      "txCount": 2763862,
       "explorerUrl": "https://plasmascan.to/address/0x8741b106e9738a6971ad07dabcfe95ff66337b51",
-      "deltaXpl": -944979.8764554709
+      "deltaXpl": -816612.1861286908
     },
     {
       "rank": 14,
@@ -160,20 +160,8 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": 0.005435163496977279,
-  "largeTransfers": [
-    {
-      "txHash": "0xdd16457e21fd823f7039314c1b94502beea838383528c7bc282017bb4940b6e6",
-      "ts": 1789089267,
-      "fromAddress": "0x4bf9663370a10a8ddef5f68748700e1fbe3ee8c8",
-      "toAddress": "0xf2b1925c89d253b3103a6b6694681ef9f9864f4f",
-      "amountXpl": 282849.269789831,
-      "category": "whale_unlabeled",
-      "fromLabel": null,
-      "toLabel": null,
-      "explorerTxUrl": "https://plasmascan.to/tx/0xdd16457e21fd823f7039314c1b94502beea838383528c7bc282017bb4940b6e6"
-    }
-  ],
+  "holderDeltaPct": -0.003227339910592847,
+  "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
     {
@@ -204,8 +192,8 @@
     "notes": [
       "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.084801
+    "priceUsd": 0.086439
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 295
+  "scannedTxCount": 289
 }
