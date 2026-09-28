@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-27T23:28:38.229Z",
+  "generatedAt": "2026-09-28T01:51:25.372Z",
   "market": {
-    "priceUsd": 0.105754,
-    "marketCapUsd": 478970906,
-    "volume24hUsd": 125138080,
-    "change1hPct": -1.567,
-    "change24hPct": -4.59596,
-    "change7dPct": 18.4554
+    "priceUsd": 0.104339,
+    "marketCapUsd": 473502905,
+    "volume24hUsd": 129501481,
+    "change1hPct": 1.4406,
+    "change24hPct": -5.43761,
+    "change7dPct": 20.5748
   },
   "holders": [
     {
@@ -53,11 +53,11 @@
       "rank": 5,
       "address": "0x44a5f646ecedb3e1436474793410296a0215f05d",
       "label": null,
-      "balanceXpl": 277713301.77258945,
-      "pctSupply": 2.77713302,
-      "txCount": 23034,
+      "balanceXpl": 277665234.66393024,
+      "pctSupply": 2.77665235,
+      "txCount": 23063,
       "explorerUrl": "https://plasmascan.to/address/0x44a5f646ecedb3e1436474793410296a0215f05d",
-      "deltaXpl": -653611.4361357093
+      "deltaXpl": -48067.10865920782
     },
     {
       "rank": 6,
@@ -73,11 +73,11 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 234060558.29633656,
-      "pctSupply": 2.34060558,
-      "txCount": 204872,
+      "balanceXpl": 233970494.19718698,
+      "pctSupply": 2.33970494,
+      "txCount": 204894,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": 497147.01481342316
+      "deltaXpl": -90064.09914958477
     },
     {
       "rank": 8,
@@ -93,11 +93,11 @@
       "rank": 9,
       "address": "0xf2b1925c89d253b3103a6b6694681ef9f9864f4f",
       "label": null,
-      "balanceXpl": 191378507.09166923,
-      "pctSupply": 1.91378507,
-      "txCount": 10889,
+      "balanceXpl": 191383643.25766742,
+      "pctSupply": 1.91383643,
+      "txCount": 10890,
       "explorerUrl": "https://plasmascan.to/address/0xf2b1925c89d253b3103a6b6694681ef9f9864f4f",
-      "deltaXpl": 0
+      "deltaXpl": 5136.165998190641
     },
     {
       "rank": 10,
@@ -113,21 +113,21 @@
       "rank": 11,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 182340534.77641514,
-      "pctSupply": 1.82340535,
-      "txCount": 54384,
+      "balanceXpl": 182746203.83877409,
+      "pctSupply": 1.82746204,
+      "txCount": 54417,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": -16026.796745836735
+      "deltaXpl": 405669.0623589456
     },
     {
       "rank": 12,
       "address": "0x8e88826f42a0f5f199a9c91c3798c626326730b4",
       "label": "Unit: Native Chain Treasury",
-      "balanceXpl": 172475267.9229331,
-      "pctSupply": 1.72475268,
-      "txCount": 28768,
+      "balanceXpl": 171120114.9234288,
+      "pctSupply": 1.71120115,
+      "txCount": 28773,
       "explorerUrl": "https://plasmascan.to/address/0x8e88826f42a0f5f199a9c91c3798c626326730b4",
-      "deltaXpl": 14706.999861985445
+      "deltaXpl": -1355152.999504298
     },
     {
       "rank": 13,
@@ -160,20 +160,8 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": -0.0024601003697170866,
-  "largeTransfers": [
-    {
-      "txHash": "0xa50fd1f2eb0d6b6bfa43870d675d7e96452750bedc7b1e2a97f8f6244974dc08",
-      "ts": 1790551682,
-      "fromAddress": "0xeae7380dd4cef6fbd1144f49e4d1e6964258a4f4",
-      "toAddress": "0x8741b106e9738a6971ad07dabcfe95ff66337b51",
-      "amountXpl": 331733.999999621,
-      "category": "exchange_inflow",
-      "fromLabel": null,
-      "toLabel": "Binance 122",
-      "explorerTxUrl": "https://plasmascan.to/tx/0xa50fd1f2eb0d6b6bfa43870d675d7e96452750bedc7b1e2a97f8f6244974dc08"
-    }
-  ],
+  "holderDeltaPct": -0.016877939256956184,
+  "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
     {
@@ -198,14 +186,14 @@
     }
   ],
   "signal": {
-    "bias": "distribution-leaning",
-    "score": -1,
-    "netExchangeFlowXpl": -331733.999999621,
+    "bias": "neutral",
+    "score": 0,
+    "netExchangeFlowXpl": 0,
     "notes": [
-      "Net inflow to labeled exchange wallets over the scanned window (331,734 XPL) -- tokens moving toward exchanges, often precedes selling."
+      "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.105754
+    "priceUsd": 0.104339
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 291
+  "scannedTxCount": 295
 }
