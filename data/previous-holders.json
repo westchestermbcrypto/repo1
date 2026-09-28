@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T16:14:19.652Z",
+  "generatedAt": "2026-09-28T22:10:56.262Z",
   "holders": [
     {
       "rank": 1,
@@ -50,18 +50,18 @@
       "rank": 6,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 243849548.0200438,
-      "pctSupply": 2.43849548,
-      "txCount": 205525,
+      "balanceXpl": 243589469.66518462,
+      "pctSupply": 2.4358947,
+      "txCount": 205777,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873"
     },
     {
       "rank": 7,
       "address": "0xf2b1925c89d253b3103a6b6694681ef9f9864f4f",
       "label": null,
-      "balanceXpl": 201048418.85447466,
-      "pctSupply": 2.01048419,
-      "txCount": 10986,
+      "balanceXpl": 203154246.9389115,
+      "pctSupply": 2.03154247,
+      "txCount": 11010,
       "explorerUrl": "https://plasmascan.to/address/0xf2b1925c89d253b3103a6b6694681ef9f9864f4f"
     },
     {
@@ -84,38 +84,38 @@
     },
     {
       "rank": 10,
-      "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "label": "Bybit: Wallet 129",
-      "balanceXpl": 179783510.80044842,
-      "pctSupply": 1.79783511,
-      "txCount": 54758,
-      "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca"
+      "address": "0x8e88826f42a0f5f199a9c91c3798c626326730b4",
+      "label": "Unit: Native Chain Treasury",
+      "balanceXpl": 171787455.29793808,
+      "pctSupply": 1.71787455,
+      "txCount": 28822,
+      "explorerUrl": "https://plasmascan.to/address/0x8e88826f42a0f5f199a9c91c3798c626326730b4"
     },
     {
       "rank": 11,
-      "address": "0x8e88826f42a0f5f199a9c91c3798c626326730b4",
-      "label": "Unit: Native Chain Treasury",
-      "balanceXpl": 172906680.00058365,
-      "pctSupply": 1.7290668,
-      "txCount": 28809,
-      "explorerUrl": "https://plasmascan.to/address/0x8e88826f42a0f5f199a9c91c3798c626326730b4"
+      "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
+      "label": "Bybit: Wallet 129",
+      "balanceXpl": 166440292.87694216,
+      "pctSupply": 1.66440293,
+      "txCount": 54874,
+      "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca"
     },
     {
       "rank": 12,
       "address": "0x8741b106e9738a6971ad07dabcfe95ff66337b51",
       "label": "Binance 122",
-      "balanceXpl": 152875945.94160053,
-      "pctSupply": 1.52875946,
-      "txCount": 3339584,
+      "balanceXpl": 150068589.7518881,
+      "pctSupply": 1.5006859,
+      "txCount": 3344359,
       "explorerUrl": "https://plasmascan.to/address/0x8741b106e9738a6971ad07dabcfe95ff66337b51"
     },
     {
       "rank": 13,
       "address": "0x44a5f646ecedb3e1436474793410296a0215f05d",
       "label": null,
-      "balanceXpl": 142136334.78816542,
-      "pctSupply": 1.42136335,
-      "txCount": 23171,
+      "balanceXpl": 144717258.85885262,
+      "pctSupply": 1.44717259,
+      "txCount": 23199,
       "explorerUrl": "https://plasmascan.to/address/0x44a5f646ecedb3e1436474793410296a0215f05d"
     },
     {
