@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-10T12:46:20.796Z",
+  "generatedAt": "2026-10-10T17:31:23.098Z",
   "market": {
-    "priceUsd": 0.087107,
-    "marketCapUsd": 394884305,
-    "volume24hUsd": 25702193,
-    "change1hPct": 0.4028,
-    "change24hPct": 3.0973,
-    "change7dPct": -7.9937
+    "priceUsd": 0.087336,
+    "marketCapUsd": 395923642,
+    "volume24hUsd": 24645069,
+    "change1hPct": 0.3877,
+    "change24hPct": 4.25358,
+    "change7dPct": -8.2627
   },
   "holders": [
     {
@@ -73,11 +73,11 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 250787815.36052296,
-      "pctSupply": 2.50787815,
-      "txCount": 208802,
+      "balanceXpl": 250764838.33194172,
+      "pctSupply": 2.50764838,
+      "txCount": 208857,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": 184339.0477462113
+      "deltaXpl": -22977.028581231833
     },
     {
       "rank": 8,
@@ -93,11 +93,11 @@
       "rank": 9,
       "address": "0x8e88826f42a0f5f199a9c91c3798c626326730b4",
       "label": "Unit: Native Chain Treasury",
-      "balanceXpl": 166890132.8247539,
-      "pctSupply": 1.66890133,
-      "txCount": 29089,
+      "balanceXpl": 166790797.89500892,
+      "pctSupply": 1.66790798,
+      "txCount": 29091,
       "explorerUrl": "https://plasmascan.to/address/0x8e88826f42a0f5f199a9c91c3798c626326730b4",
-      "deltaXpl": -31194.23083627224
+      "deltaXpl": -99334.92974498868
     },
     {
       "rank": 10,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": 0.0024658264800262084,
+  "holderDeltaPct": -0.0019693296515003716,
   "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
@@ -192,8 +192,8 @@
     "notes": [
       "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.087107
+    "priceUsd": 0.087336
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 290
+  "scannedTxCount": 286
 }
