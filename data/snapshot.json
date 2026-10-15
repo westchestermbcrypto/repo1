@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-14T22:49:24.146Z",
+  "generatedAt": "2026-10-15T01:04:41.900Z",
   "market": {
-    "priceUsd": 0.080284,
-    "marketCapUsd": 363954902,
-    "volume24hUsd": 26872653,
-    "change1hPct": 0.4309,
-    "change24hPct": -3.03742,
-    "change7dPct": -7.9914
+    "priceUsd": 0.080474,
+    "marketCapUsd": 364814208,
+    "volume24hUsd": 30451407,
+    "change1hPct": -0.3145,
+    "change24hPct": -2.94595,
+    "change7dPct": -8.7033
   },
   "holders": [
     {
@@ -73,11 +73,11 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 252438787.81477004,
-      "pctSupply": 2.52438788,
-      "txCount": 209592,
+      "balanceXpl": 252415128.01146793,
+      "pctSupply": 2.52415128,
+      "txCount": 209597,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": 247344.44623330235
+      "deltaXpl": -23659.80330210924
     },
     {
       "rank": 8,
@@ -93,11 +93,11 @@
       "rank": 9,
       "address": "0x8e88826f42a0f5f199a9c91c3798c626326730b4",
       "label": "Unit: Native Chain Treasury",
-      "balanceXpl": 169527986.87683463,
-      "pctSupply": 1.69527987,
-      "txCount": 29163,
+      "balanceXpl": 169511641.1970615,
+      "pctSupply": 1.69511641,
+      "txCount": 29164,
       "explorerUrl": "https://plasmascan.to/address/0x8e88826f42a0f5f199a9c91c3798c626326730b4",
-      "deltaXpl": 0
+      "deltaXpl": -16345.679773122072
     },
     {
       "rank": 10,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": 0.003967490926114232,
+  "holderDeltaPct": -0.0006416764010909149,
   "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
@@ -192,8 +192,8 @@
     "notes": [
       "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.080284
+    "priceUsd": 0.080474
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 300
+  "scannedTxCount": 296
 }
