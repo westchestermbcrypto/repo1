@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T00:48:01.684Z",
+  "generatedAt": "2026-10-20T05:31:04.107Z",
   "holders": [
     {
       "rank": 1,
@@ -59,9 +59,9 @@
       "rank": 7,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 263025277.90652123,
-      "pctSupply": 2.63025278,
-      "txCount": 210679,
+      "balanceXpl": 262968270.6544611,
+      "pctSupply": 2.62968271,
+      "txCount": 210725,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873"
     },
     {
@@ -93,6 +93,15 @@
     },
     {
       "rank": 11,
+      "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
+      "label": "Bybit: Wallet 129",
+      "balanceXpl": 101153534.03110291,
+      "pctSupply": 1.01153534,
+      "txCount": 60342,
+      "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca"
+    },
+    {
+      "rank": 12,
       "address": "0x0bba36247740a08fbe7c5fabfb09361baea02159",
       "label": null,
       "balanceXpl": 100000012,
@@ -101,7 +110,7 @@
       "explorerUrl": "https://plasmascan.to/address/0x0bba36247740a08fbe7c5fabfb09361baea02159"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "address": "0xdc78606612d8777fa57439072c9669f92980fbd0",
       "label": null,
       "balanceXpl": 100000000,
@@ -110,7 +119,7 @@
       "explorerUrl": "https://plasmascan.to/address/0xdc78606612d8777fa57439072c9669f92980fbd0"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "address": "0x344a8083a88161bb9db4c7053c55e5a1f2a4dac0",
       "label": null,
       "balanceXpl": 100000000,
@@ -119,22 +128,13 @@
       "explorerUrl": "https://plasmascan.to/address/0x344a8083a88161bb9db4c7053c55e5a1f2a4dac0"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "address": "0x474470b1984dea3a1331bf4d39ee3ec27ab755e1",
       "label": null,
       "balanceXpl": 100000000,
       "pctSupply": 1,
       "txCount": 1,
       "explorerUrl": "https://plasmascan.to/address/0x474470b1984dea3a1331bf4d39ee3ec27ab755e1"
-    },
-    {
-      "rank": 15,
-      "address": "0xc4bc6b4beb905d51e742e05bc9a7b5ae52023f58",
-      "label": null,
-      "balanceXpl": 100000000,
-      "pctSupply": 1,
-      "txCount": 1,
-      "explorerUrl": "https://plasmascan.to/address/0xc4bc6b4beb905d51e742e05bc9a7b5ae52023f58"
     }
   ]
 }
