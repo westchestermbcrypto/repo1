@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-21T22:52:54.896Z",
+  "generatedAt": "2026-10-22T01:04:48.616Z",
   "market": {
-    "priceUsd": 0.082728,
-    "marketCapUsd": 374884501,
-    "volume24hUsd": 37611995,
-    "change1hPct": -0.1884,
-    "change24hPct": 5.44728,
-    "change7dPct": 3.8778
+    "priceUsd": 0.082054,
+    "marketCapUsd": 371680993,
+    "volume24hUsd": 35159489,
+    "change1hPct": 0.2324,
+    "change24hPct": 4.61771,
+    "change7dPct": 2.3306
   },
   "holders": [
     {
@@ -17,7 +17,7 @@
       "pctSupply": 21.76218987,
       "txCount": 83,
       "explorerUrl": "https://plasmascan.to/address/0xf97ba376d3ecb36c4472b1d3c5aaf2d158c28558",
-      "deltaXpl": -66666651.67000008
+      "deltaXpl": 0
     },
     {
       "rank": 2,
@@ -63,11 +63,11 @@
       "rank": 6,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 266163181.6438687,
-      "pctSupply": 2.66163182,
-      "txCount": 211209,
+      "balanceXpl": 266433132.52755526,
+      "pctSupply": 2.66433133,
+      "txCount": 211215,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": 248212.17234954238
+      "deltaXpl": 269950.8836865425
     },
     {
       "rank": 7,
@@ -103,11 +103,11 @@
       "rank": 10,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 135323515.74076232,
-      "pctSupply": 1.35323516,
-      "txCount": 61080,
+      "balanceXpl": 136363386.86135873,
+      "pctSupply": 1.36363387,
+      "txCount": 61099,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": 1739925.0682250708
+      "deltaXpl": 1039871.1205964088
     },
     {
       "rank": 11,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": -1.040478844378243,
+  "holderDeltaPct": 0.021292561728231692,
   "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
@@ -187,14 +187,13 @@
   ],
   "signal": {
     "bias": "neutral",
-    "score": -0.5,
+    "score": 0,
     "netExchangeFlowXpl": 0,
     "notes": [
-      "No labeled exchange flow detected in the scanned window.",
-      "Top-15 holder combined balance is down -1.04% vs. the prior snapshot -- whales distributing."
+      "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.082728
+    "priceUsd": 0.082054
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 265
+  "scannedTxCount": 287
 }
