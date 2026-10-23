@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T02:28:45.876Z",
+  "generatedAt": "2026-10-23T07:49:21.181Z",
   "holders": [
     {
       "rank": 1,
@@ -41,25 +41,25 @@
       "rank": 5,
       "address": "0xf2b1925c89d253b3103a6b6694681ef9f9864f4f",
       "label": null,
-      "balanceXpl": 292935582.2079899,
-      "pctSupply": 2.92935582,
-      "txCount": 12191,
+      "balanceXpl": 294006449.31750727,
+      "pctSupply": 2.94006449,
+      "txCount": 12204,
       "explorerUrl": "https://plasmascan.to/address/0xf2b1925c89d253b3103a6b6694681ef9f9864f4f"
     },
     {
       "rank": 6,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 268652442.3635062,
-      "pctSupply": 2.68652442,
-      "txCount": 211360,
+      "balanceXpl": 268213747.88566923,
+      "pctSupply": 2.68213748,
+      "txCount": 211390,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873"
     },
     {
       "rank": 7,
       "address": "0x405fbc9004d857903bfd6b3357792d71a50726b0",
       "label": "LayerZero: Plasma Native OFT Adapter",
-      "balanceXpl": 264871655.08731,
+      "balanceXpl": 264871655.06731,
       "pctSupply": 2.64871655,
       "txCount": 5676,
       "explorerUrl": "https://plasmascan.to/address/0x405fbc9004d857903bfd6b3357792d71a50726b0"
@@ -77,18 +77,18 @@
       "rank": 9,
       "address": "0x8e88826f42a0f5f199a9c91c3798c626326730b4",
       "label": "Unit: Native Chain Treasury",
-      "balanceXpl": 174218099.61154383,
-      "pctSupply": 1.742181,
-      "txCount": 29261,
+      "balanceXpl": 174118079.4131388,
+      "pctSupply": 1.74118079,
+      "txCount": 29266,
       "explorerUrl": "https://plasmascan.to/address/0x8e88826f42a0f5f199a9c91c3798c626326730b4"
     },
     {
       "rank": 10,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 137303899.8430156,
-      "pctSupply": 1.373039,
-      "txCount": 61251,
+      "balanceXpl": 136177625.76720726,
+      "pctSupply": 1.36177626,
+      "txCount": 61272,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca"
     },
     {
