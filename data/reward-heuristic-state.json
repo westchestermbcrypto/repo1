@@ -206,15 +206,6 @@
       "count": 12,
       "lastTs": 1792689847
     },
-    "0x0b38db09872bfacec461583939dd868a888ce6fb|2026-10-22": {
-      "fromAddress": "0x0b38db09872bfacec461583939dd868a888ce6fb",
-      "dayKey": "2026-10-22",
-      "recipients": [
-        "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb"
-      ],
-      "count": 1,
-      "lastTs": 1792631082
-    },
     "0x15eb6b6e2d7cae1a502f0251a3e950b4877ff73d|2026-10-22": {
       "fromAddress": "0x15eb6b6e2d7cae1a502f0251a3e950b4877ff73d",
       "dayKey": "2026-10-22",
@@ -250,15 +241,6 @@
       ],
       "count": 3,
       "lastTs": 1792671044
-    },
-    "0x7561a665c614abde449469cebad3a701b0a587c6|2026-10-22": {
-      "fromAddress": "0x7561a665c614abde449469cebad3a701b0a587c6",
-      "dayKey": "2026-10-22",
-      "recipients": [
-        "0xd5dd79397fdfbe5e1fceedc2463fe4a464873077"
-      ],
-      "count": 1,
-      "lastTs": 1792631079
     },
     "0xeb5438f5d5deeb85d0e65c823658089acd7fda15|2026-10-22": {
       "fromAddress": "0xeb5438f5d5deeb85d0e65c823658089acd7fda15",
