@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-28T02:27:49.208Z",
+  "generatedAt": "2026-10-28T08:50:05.223Z",
   "market": {
-    "priceUsd": 0.074415,
-    "marketCapUsd": 354533650,
-    "volume24hUsd": 24206959,
-    "change1hPct": 0.7173,
-    "change24hPct": 3.37729,
-    "change7dPct": -5.3489
+    "priceUsd": 0.07534,
+    "marketCapUsd": 358679665,
+    "volume24hUsd": 26911892,
+    "change1hPct": 0.9376,
+    "change24hPct": 4.99499,
+    "change7dPct": -5.2962
   },
   "holders": [
     {
@@ -27,7 +27,7 @@
       "pctSupply": 10.37202697,
       "txCount": 237,
       "explorerUrl": "https://plasmascan.to/address/0xcf54cb695a70f466fd5a271f85a7e268c2c97b25",
-      "deltaXpl": -9450000.000002623
+      "deltaXpl": 0
     },
     {
       "rank": 3,
@@ -53,21 +53,21 @@
       "rank": 5,
       "address": "0xf2b1925c89d253b3103a6b6694681ef9f9864f4f",
       "label": null,
-      "balanceXpl": 301625132.2820496,
-      "pctSupply": 3.01625132,
-      "txCount": 12324,
+      "balanceXpl": 303371136.37942964,
+      "pctSupply": 3.03371136,
+      "txCount": 12326,
       "explorerUrl": "https://plasmascan.to/address/0xf2b1925c89d253b3103a6b6694681ef9f9864f4f",
-      "deltaXpl": 0
+      "deltaXpl": 1746004.097380042
     },
     {
       "rank": 6,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 271640822.8843113,
-      "pctSupply": 2.71640823,
-      "txCount": 212104,
+      "balanceXpl": 271667518.25665647,
+      "pctSupply": 2.71667518,
+      "txCount": 212193,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": 59447.60039228201
+      "deltaXpl": 26695.372345149517
     },
     {
       "rank": 7,
@@ -97,27 +97,27 @@
       "pctSupply": 1.7459606,
       "txCount": 29315,
       "explorerUrl": "https://plasmascan.to/address/0x8e88826f42a0f5f199a9c91c3798c626326730b4",
-      "deltaXpl": -71698.82631540298
+      "deltaXpl": 0
     },
     {
       "rank": 10,
-      "address": "0x8741b106e9738a6971ad07dabcfe95ff66337b51",
-      "label": "Binance 122",
-      "balanceXpl": 132745834.95608829,
-      "pctSupply": 1.32745835,
-      "txCount": 3868938,
-      "explorerUrl": "https://plasmascan.to/address/0x8741b106e9738a6971ad07dabcfe95ff66337b51",
-      "deltaXpl": -889520.5976849645
+      "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
+      "label": "Bybit: Wallet 129",
+      "balanceXpl": 133255290.17714277,
+      "pctSupply": 1.3325529,
+      "txCount": 62158,
+      "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
+      "deltaXpl": 1010603.0051952153
     },
     {
       "rank": 11,
-      "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "label": "Bybit: Wallet 129",
-      "balanceXpl": 132244687.17194755,
-      "pctSupply": 1.32244687,
-      "txCount": 62132,
-      "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": 1674173.088716507
+      "address": "0x8741b106e9738a6971ad07dabcfe95ff66337b51",
+      "label": "Binance 122",
+      "balanceXpl": 130085244.14442644,
+      "pctSupply": 1.30085244,
+      "txCount": 3871667,
+      "explorerUrl": "https://plasmascan.to/address/0x8741b106e9738a6971ad07dabcfe95ff66337b51",
+      "deltaXpl": -2660590.8116618544
     },
     {
       "rank": 12,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": -0.13889615798291244,
+  "holderDeltaPct": 0.001966890348893889,
   "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
@@ -186,14 +186,14 @@
     }
   ],
   "signal": {
-    "bias": "neutral",
-    "score": 0,
-    "netExchangeFlowXpl": 0,
+    "bias": "accumulation-leaning",
+    "score": 1,
+    "netExchangeFlowXpl": 13.16,
     "notes": [
-      "No labeled exchange flow detected in the scanned window."
+      "Net outflow from labeled exchange wallets over the scanned window (13 XPL) -- tokens moving to self-custody, historically a mild accumulation signal."
     ],
-    "priceUsd": 0.074415
+    "priceUsd": 0.07534
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 300
+  "scannedTxCount": 287
 }
