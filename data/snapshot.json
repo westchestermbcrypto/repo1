@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-01T03:07:56.463Z",
+  "generatedAt": "2026-11-01T10:40:34.589Z",
   "market": {
-    "priceUsd": 0.08246,
-    "marketCapUsd": 392635191,
-    "volume24hUsd": 45243502,
-    "change1hPct": 0.8787,
-    "change24hPct": 1.05608,
-    "change7dPct": 11.2597
+    "priceUsd": 0.075025,
+    "marketCapUsd": 357152913,
+    "volume24hUsd": 109752421,
+    "change1hPct": 0.4689,
+    "change24hPct": -5.99653,
+    "change7dPct": 5.3214
   },
   "holders": [
     {
@@ -53,31 +53,31 @@
       "rank": 5,
       "address": "0xf2b1925c89d253b3103a6b6694681ef9f9864f4f",
       "label": null,
-      "balanceXpl": 272353275.8671696,
-      "pctSupply": 2.72353276,
-      "txCount": 12337,
+      "balanceXpl": 302675884.05136293,
+      "pctSupply": 3.02675884,
+      "txCount": 12426,
       "explorerUrl": "https://plasmascan.to/address/0xf2b1925c89d253b3103a6b6694681ef9f9864f4f",
-      "deltaXpl": -4700000.000209987
+      "deltaXpl": 30322608.184193313
     },
     {
       "rank": 6,
-      "address": "0x405fbc9004d857903bfd6b3357792d71a50726b0",
-      "label": "LayerZero: Plasma Native OFT Adapter",
-      "balanceXpl": 264871654.66731,
-      "pctSupply": 2.64871655,
-      "txCount": 5676,
-      "explorerUrl": "https://plasmascan.to/address/0x405fbc9004d857903bfd6b3357792d71a50726b0",
-      "deltaXpl": 0
+      "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
+      "label": "Plasma: WXPL Token",
+      "balanceXpl": 267275950.54362178,
+      "pctSupply": 2.67275951,
+      "txCount": 214920,
+      "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
+      "deltaXpl": 3061570.5285196602
     },
     {
       "rank": 7,
-      "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "label": "Plasma: WXPL Token",
-      "balanceXpl": 264214380.01510212,
-      "pctSupply": 2.6421438,
-      "txCount": 214651,
-      "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": -229689.5518449843
+      "address": "0x405fbc9004d857903bfd6b3357792d71a50726b0",
+      "label": "LayerZero: Plasma Native OFT Adapter",
+      "balanceXpl": 264825253.444066,
+      "pctSupply": 2.64825253,
+      "txCount": 5676,
+      "explorerUrl": "https://plasmascan.to/address/0x405fbc9004d857903bfd6b3357792d71a50726b0",
+      "deltaXpl": -46401.2232440114
     },
     {
       "rank": 8,
@@ -93,21 +93,21 @@
       "rank": 9,
       "address": "0x8e88826f42a0f5f199a9c91c3798c626326730b4",
       "label": "Unit: Native Chain Treasury",
-      "balanceXpl": 173534968.0939341,
-      "pctSupply": 1.73534968,
-      "txCount": 29367,
+      "balanceXpl": 172102074.93741176,
+      "pctSupply": 1.72102075,
+      "txCount": 29405,
       "explorerUrl": "https://plasmascan.to/address/0x8e88826f42a0f5f199a9c91c3798c626326730b4",
-      "deltaXpl": -2198.9997070729733
+      "deltaXpl": -1432893.1565223336
     },
     {
       "rank": 10,
       "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
       "label": "Bybit: Wallet 129",
-      "balanceXpl": 159436777.24582487,
-      "pctSupply": 1.59436777,
-      "txCount": 63887,
+      "balanceXpl": 150291550.65003,
+      "pctSupply": 1.50291551,
+      "txCount": 64441,
       "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": 1799808.355066061
+      "deltaXpl": -9145226.595794886
     },
     {
       "rank": 11,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": -0.049641595092794734,
+  "holderDeltaPct": 0.3609061023076497,
   "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
@@ -192,8 +192,8 @@
     "notes": [
       "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.08246
+    "priceUsd": 0.075025
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 291
+  "scannedTxCount": 273
 }
