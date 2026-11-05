@@ -1,3 +1,574 @@
 {
-  "buckets": {}
+  "buckets": {
+    "0x056eb7aba55ae378781bb8350ea0fed5560e7517|2026-11-05": {
+      "fromAddress": "0x056eb7aba55ae378781bb8350ea0fed5560e7517",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x334987c80502e44f053dde057af1647fcb827808"
+      ],
+      "count": 13,
+      "lastTs": 1793842371
+    },
+    "0x94860c01f0f039165c48c1cd2be4a2455e1bba5b|2026-11-05": {
+      "fromAddress": "0x94860c01f0f039165c48c1cd2be4a2455e1bba5b",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x334987c80502e44f053dde057af1647fcb827808"
+      ],
+      "count": 13,
+      "lastTs": 1793842371
+    },
+    "0xc0921638a2acad0bdcde93cf280b456b01c33b62|2026-11-05": {
+      "fromAddress": "0xc0921638a2acad0bdcde93cf280b456b01c33b62",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x334987c80502e44f053dde057af1647fcb827808"
+      ],
+      "count": 13,
+      "lastTs": 1793842371
+    },
+    "0x8192bf75cb263e543c4f2c06edb983139034aa0f|2026-11-05": {
+      "fromAddress": "0x8192bf75cb263e543c4f2c06edb983139034aa0f",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xdd7f3df04370885c6ba8a6fd0947d617ffc39ca3"
+      ],
+      "count": 29,
+      "lastTs": 1793842371
+    },
+    "0x42dafc8080b984ded097f4412a8a75dcd848fff3|2026-11-05": {
+      "fromAddress": "0x42dafc8080b984ded097f4412a8a75dcd848fff3",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x334987c80502e44f053dde057af1647fcb827808"
+      ],
+      "count": 12,
+      "lastTs": 1793842370
+    },
+    "0xa8c416e54c947dd0007408ee5f8a1f7d37a51d2c|2026-11-05": {
+      "fromAddress": "0xa8c416e54c947dd0007408ee5f8a1f7d37a51d2c",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x334987c80502e44f053dde057af1647fcb827808"
+      ],
+      "count": 12,
+      "lastTs": 1793842370
+    },
+    "0x3afa26c8161d9ad378b6551b6aae50d86ab18339|2026-11-05": {
+      "fromAddress": "0x3afa26c8161d9ad378b6551b6aae50d86ab18339",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x334987c80502e44f053dde057af1647fcb827808"
+      ],
+      "count": 12,
+      "lastTs": 1793842370
+    },
+    "0x2e089b5043b6b1c94ee6b99ea1ae9272cce4c8e4|2026-11-05": {
+      "fromAddress": "0x2e089b5043b6b1c94ee6b99ea1ae9272cce4c8e4",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x334987c80502e44f053dde057af1647fcb827808"
+      ],
+      "count": 12,
+      "lastTs": 1793842369
+    },
+    "0xa2c7dcb9e59adb08d7f0827471fd8b829bd7915e|2026-11-05": {
+      "fromAddress": "0xa2c7dcb9e59adb08d7f0827471fd8b829bd7915e",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x334987c80502e44f053dde057af1647fcb827808"
+      ],
+      "count": 12,
+      "lastTs": 1793842369
+    },
+    "0x429e8ab38b4203ec8dabb5fa798ff24c3bd560c8|2026-11-05": {
+      "fromAddress": "0x429e8ab38b4203ec8dabb5fa798ff24c3bd560c8",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x334987c80502e44f053dde057af1647fcb827808"
+      ],
+      "count": 12,
+      "lastTs": 1793842369
+    },
+    "0xa5318bd991c4a19efc6d716f78697cfb8209342e|2026-11-05": {
+      "fromAddress": "0xa5318bd991c4a19efc6d716f78697cfb8209342e",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x334987c80502e44f053dde057af1647fcb827808"
+      ],
+      "count": 12,
+      "lastTs": 1793842369
+    },
+    "0x6b0b8080d2c6cebf32621d38ca1d94120b331da2|2026-11-05": {
+      "fromAddress": "0x6b0b8080d2c6cebf32621d38ca1d94120b331da2",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x45e0c0b4faa3e75c2de50ab6857d70ac4daaa364"
+      ],
+      "count": 5,
+      "lastTs": 1793842369
+    },
+    "0x8589c4d7ad73a71170965bbfe70140bb8ee492d8|2026-11-05": {
+      "fromAddress": "0x8589c4d7ad73a71170965bbfe70140bb8ee492d8",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x45e0c0b4faa3e75c2de50ab6857d70ac4daaa364"
+      ],
+      "count": 4,
+      "lastTs": 1793842369
+    },
+    "0x10b66b4771ccc3cee50d5971524b5bfcd736ca85|2026-11-05": {
+      "fromAddress": "0x10b66b4771ccc3cee50d5971524b5bfcd736ca85",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x45e0c0b4faa3e75c2de50ab6857d70ac4daaa364"
+      ],
+      "count": 4,
+      "lastTs": 1793842369
+    },
+    "0x980dbde8ec2cfebfa46660778afc1cc182eaeada|2026-11-05": {
+      "fromAddress": "0x980dbde8ec2cfebfa46660778afc1cc182eaeada",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x0f53bd34212edb71e40a10773e9df4e998ddc822"
+      ],
+      "count": 4,
+      "lastTs": 1793842369
+    },
+    "0x9b1a331b4ac667fd97674ceedd861008488a3e40|2026-11-05": {
+      "fromAddress": "0x9b1a331b4ac667fd97674ceedd861008488a3e40",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x0000000071727de22e5e9d8baf0edac6f37da032"
+      ],
+      "count": 12,
+      "lastTs": 1793842369
+    },
+    "0xd54f146883c5660bb97750ba053daa454a7e3d88|2026-11-05": {
+      "fromAddress": "0xd54f146883c5660bb97750ba053daa454a7e3d88",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xa1fcea661f77d807876e08ebb0919a1f87646bc3"
+      ],
+      "count": 3,
+      "lastTs": 1793842365
+    },
+    "0x15eb6b6e2d7cae1a502f0251a3e950b4877ff73d|2026-11-05": {
+      "fromAddress": "0x15eb6b6e2d7cae1a502f0251a3e950b4877ff73d",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x644547899775f2628aea4a2ba25dad2659b7435e"
+      ],
+      "count": 7,
+      "lastTs": 1793842364
+    },
+    "0x4285c5a046c98f268f0f7305e6556fb72a50447a|2026-11-05": {
+      "fromAddress": "0x4285c5a046c98f268f0f7305e6556fb72a50447a",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x644547899775f2628aea4a2ba25dad2659b7435e"
+      ],
+      "count": 6,
+      "lastTs": 1793842364
+    },
+    "0x6119871b4eb66db137dcfad59655853ea6fe58ce|2026-11-05": {
+      "fromAddress": "0x6119871b4eb66db137dcfad59655853ea6fe58ce",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xe28b144bed7b862b47b5ff634f88879cc2ac4885"
+      ],
+      "count": 4,
+      "lastTs": 1793842363
+    },
+    "0x52047955bb9bcf251fab2b9b28143423fe36fcf1|2026-11-05": {
+      "fromAddress": "0x52047955bb9bcf251fab2b9b28143423fe36fcf1",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xa1fcea661f77d807876e08ebb0919a1f87646bc3"
+      ],
+      "count": 3,
+      "lastTs": 1793842363
+    },
+    "0xb3020d5e5a365d9bc5f2fe0d361398c6c1966ad3|2026-11-05": {
+      "fromAddress": "0xb3020d5e5a365d9bc5f2fe0d361398c6c1966ad3",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x807f4e281b7a3b324825c64ca53c69f0b418de40"
+      ],
+      "count": 4,
+      "lastTs": 1793842363
+    },
+    "0xc10b07b7475959d1b7498f0a2cc00797e0e32025|2026-11-05": {
+      "fromAddress": "0xc10b07b7475959d1b7498f0a2cc00797e0e32025",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xd4b75ab44c7f7549c7eda9eeadae805a64aaf382"
+      ],
+      "count": 1,
+      "lastTs": 1793842362
+    },
+    "0xf253d2dc892f2042238feb4c0244cfa80cf212b5|2026-11-05": {
+      "fromAddress": "0xf253d2dc892f2042238feb4c0244cfa80cf212b5",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb"
+      ],
+      "count": 1,
+      "lastTs": 1793842362
+    },
+    "0xce620d82eba347e0725ca410fcc80ce6b2239e9b|2026-11-05": {
+      "fromAddress": "0xce620d82eba347e0725ca410fcc80ce6b2239e9b",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb"
+      ],
+      "count": 1,
+      "lastTs": 1793842361
+    },
+    "0x2abf34a51140029a4b67c6dc12a8aba85be0f2b9|2026-11-05": {
+      "fromAddress": "0x2abf34a51140029a4b67c6dc12a8aba85be0f2b9",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x4b9d57bf7bc91f89d1db1e7dd1d796f54d450efc"
+      ],
+      "count": 1,
+      "lastTs": 1793842361
+    },
+    "0x51e6f49ffb1c35922239de183d53539ab61bd18b|2026-11-05": {
+      "fromAddress": "0x51e6f49ffb1c35922239de183d53539ab61bd18b",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb"
+      ],
+      "count": 3,
+      "lastTs": 1793842361
+    },
+    "0xb94124fb46fdc8a4346d1fea203dc3ef261e449b|2026-11-05": {
+      "fromAddress": "0xb94124fb46fdc8a4346d1fea203dc3ef261e449b",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x0f53bd34212edb71e40a10773e9df4e998ddc822"
+      ],
+      "count": 3,
+      "lastTs": 1793842358
+    },
+    "0x977fd7cfe42d757aa914098f8a05e0509b40658b|2026-11-05": {
+      "fromAddress": "0x977fd7cfe42d757aa914098f8a05e0509b40658b",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x0f53bd34212edb71e40a10773e9df4e998ddc822"
+      ],
+      "count": 3,
+      "lastTs": 1793842358
+    },
+    "0x7a0c09d89052eb39a942a1320673a946f4a2dfce|2026-11-05": {
+      "fromAddress": "0x7a0c09d89052eb39a942a1320673a946f4a2dfce",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xe28b144bed7b862b47b5ff634f88879cc2ac4885",
+        "0x6d91e828fc43161df67d8e68f5e5907905eb9222"
+      ],
+      "count": 5,
+      "lastTs": 1793842358
+    },
+    "0x07ef7af99ce4b913f73d47d3d99359ffe36a3a6a|2026-11-05": {
+      "fromAddress": "0x07ef7af99ce4b913f73d47d3d99359ffe36a3a6a",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb"
+      ],
+      "count": 1,
+      "lastTs": 1793842357
+    },
+    "0x309459499f10bb23c7378da4a15de3ac45f1b743|2026-11-05": {
+      "fromAddress": "0x309459499f10bb23c7378da4a15de3ac45f1b743",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb"
+      ],
+      "count": 1,
+      "lastTs": 1793842357
+    },
+    "0x10038c34cdd1f4584fafdfaed2e98f3062dc14e5|2026-11-05": {
+      "fromAddress": "0x10038c34cdd1f4584fafdfaed2e98f3062dc14e5",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xd5dd79397fdfbe5e1fceedc2463fe4a464873077"
+      ],
+      "count": 1,
+      "lastTs": 1793842356
+    },
+    "0x43d2cf587f2dd7853a60d6a53032b1217e6ad8a4|2026-11-05": {
+      "fromAddress": "0x43d2cf587f2dd7853a60d6a53032b1217e6ad8a4",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x0000000071727de22e5e9d8baf0edac6f37da032"
+      ],
+      "count": 3,
+      "lastTs": 1793842354
+    },
+    "0xa17778809b5ab5170568db80c770658e061b1113|2026-11-05": {
+      "fromAddress": "0xa17778809b5ab5170568db80c770658e061b1113",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xa17778809b5ab5170568db80c770658e061b1113"
+      ],
+      "count": 1,
+      "lastTs": 1793842351
+    },
+    "0x0008297410552a6415fe469bde8166f55f50fd95|2026-11-05": {
+      "fromAddress": "0x0008297410552a6415fe469bde8166f55f50fd95",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x0008297410552a6415fe469bde8166f55f50fd95"
+      ],
+      "count": 1,
+      "lastTs": 1793842350
+    },
+    "0xfbfb437a20abad6b68fc5360921b5b0e91aeccaa|2026-11-05": {
+      "fromAddress": "0xfbfb437a20abad6b68fc5360921b5b0e91aeccaa",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xa1fcea661f77d807876e08ebb0919a1f87646bc3"
+      ],
+      "count": 4,
+      "lastTs": 1793842350
+    },
+    "0xeed8fe17e71297865cefa0a89504466fe8e9a466|2026-11-05": {
+      "fromAddress": "0xeed8fe17e71297865cefa0a89504466fe8e9a466",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xa1fcea661f77d807876e08ebb0919a1f87646bc3",
+        "0xa2da85df0eb79b8f3f484fabd89389ef6d59c89b"
+      ],
+      "count": 8,
+      "lastTs": 1793842350
+    },
+    "0x2dc458c4b3fc96ed484000c30f8a16db43c27372|2026-11-05": {
+      "fromAddress": "0x2dc458c4b3fc96ed484000c30f8a16db43c27372",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x3e95a025efc7f93bf4efcbea40297f97d421a274"
+      ],
+      "count": 1,
+      "lastTs": 1793842350
+    },
+    "0xab1edb78fd089dbe4c24ddb3bd43aa179a1b0d37|2026-11-05": {
+      "fromAddress": "0xab1edb78fd089dbe4c24ddb3bd43aa179a1b0d37",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xa1fcea661f77d807876e08ebb0919a1f87646bc3"
+      ],
+      "count": 2,
+      "lastTs": 1793842350
+    },
+    "0x9bac615f9175e04528ddfa3a8a1a2d1a4ba04d69|2026-11-05": {
+      "fromAddress": "0x9bac615f9175e04528ddfa3a8a1a2d1a4ba04d69",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xd82743cc26cecbc08450b082bf0403ffdc9372d0"
+      ],
+      "count": 3,
+      "lastTs": 1793842347
+    },
+    "0xc923854ac8a27be433fc2ce4b202419614db8ff4|2026-11-05": {
+      "fromAddress": "0xc923854ac8a27be433fc2ce4b202419614db8ff4",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xd82743cc26cecbc08450b082bf0403ffdc9372d0"
+      ],
+      "count": 2,
+      "lastTs": 1793842346
+    },
+    "0x5b7dd8c789491f23ebb861b79b5fa67772b1ebdd|2026-11-05": {
+      "fromAddress": "0x5b7dd8c789491f23ebb861b79b5fa67772b1ebdd",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x59655d58aeab1d6c082f7428f93f9e7d19889331"
+      ],
+      "count": 1,
+      "lastTs": 1793842346
+    },
+    "0x63e2f0bf6966256dad9c590de0fb68acc81c1f51|2026-11-05": {
+      "fromAddress": "0x63e2f0bf6966256dad9c590de0fb68acc81c1f51",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x4b4d1c779dd3ffe9b2aa0c2e892b96a480eda406"
+      ],
+      "count": 1,
+      "lastTs": 1793842346
+    },
+    "0x46565eedb0bb948ae787dd105cce300f736da28e|2026-11-05": {
+      "fromAddress": "0x46565eedb0bb948ae787dd105cce300f736da28e",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x00000000005ad9ce1f5035fd62ca96cef16adaaf"
+      ],
+      "count": 2,
+      "lastTs": 1793842346
+    },
+    "0xb3ccfabac0c670ed10ea60fb64d25946fd51d4dc|2026-11-05": {
+      "fromAddress": "0xb3ccfabac0c670ed10ea60fb64d25946fd51d4dc",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xe28b144bed7b862b47b5ff634f88879cc2ac4885",
+        "0x6d91e828fc43161df67d8e68f5e5907905eb9222"
+      ],
+      "count": 7,
+      "lastTs": 1793842346
+    },
+    "0xbedffc64365b323bbf6afbc826c72be0f80d3305|2026-11-05": {
+      "fromAddress": "0xbedffc64365b323bbf6afbc826c72be0f80d3305",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xa1fcea661f77d807876e08ebb0919a1f87646bc3"
+      ],
+      "count": 6,
+      "lastTs": 1793842346
+    },
+    "0xeeadfa148fc878c4a68dfa9ae03c8be18290784d|2026-11-05": {
+      "fromAddress": "0xeeadfa148fc878c4a68dfa9ae03c8be18290784d",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x807f4e281b7a3b324825c64ca53c69f0b418de40"
+      ],
+      "count": 3,
+      "lastTs": 1793842346
+    },
+    "0x497696ae994c2d824fd1fae5371390b142fc6f38|2026-11-05": {
+      "fromAddress": "0x497696ae994c2d824fd1fae5371390b142fc6f38",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb"
+      ],
+      "count": 1,
+      "lastTs": 1793842344
+    },
+    "0xe05222fb2659774c1d6f965cc0b907d69ae7622e|2026-11-05": {
+      "fromAddress": "0xe05222fb2659774c1d6f965cc0b907d69ae7622e",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x63e2f0bf6966256dad9c590de0fb68acc81c1f51"
+      ],
+      "count": 1,
+      "lastTs": 1793842344
+    },
+    "0xc43762be6cbe2251df87eb056e56f35ba768d81c|2026-11-05": {
+      "fromAddress": "0xc43762be6cbe2251df87eb056e56f35ba768d81c",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x368ee51e47a594fe1e9908b48228748a30bc7ca4"
+      ],
+      "count": 1,
+      "lastTs": 1793842344
+    },
+    "0x8ee7d843420ec29adbb96d949f07782528ed5935|2026-11-05": {
+      "fromAddress": "0x8ee7d843420ec29adbb96d949f07782528ed5935",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xd82743cc26cecbc08450b082bf0403ffdc9372d0"
+      ],
+      "count": 2,
+      "lastTs": 1793842344
+    },
+    "0xae3a7acfda2a37ce5c589ba4fa2561b2f3ab5952|2026-11-05": {
+      "fromAddress": "0xae3a7acfda2a37ce5c589ba4fa2561b2f3ab5952",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xd82743cc26cecbc08450b082bf0403ffdc9372d0"
+      ],
+      "count": 2,
+      "lastTs": 1793842344
+    },
+    "0x06eb02fe2ca80eb989e060e2cd4b603e0815c923|2026-11-05": {
+      "fromAddress": "0x06eb02fe2ca80eb989e060e2cd4b603e0815c923",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0x9e1e0dd8db2f2db16fe5517f8212b633c7a70846"
+      ],
+      "count": 2,
+      "lastTs": 1793842344
+    },
+    "0x2e8d0cc9ab070d1336188c907b565565f9c03bb5|2026-11-05": {
+      "fromAddress": "0x2e8d0cc9ab070d1336188c907b565565f9c03bb5",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xa6bd954722dc62c356467774f7b3e002dcf6370d"
+      ],
+      "count": 1,
+      "lastTs": 1793842342
+    },
+    "0xed9ab5bc05a0152b9dc2f7902e8369af7bc18771|2026-11-05": {
+      "fromAddress": "0xed9ab5bc05a0152b9dc2f7902e8369af7bc18771",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb"
+      ],
+      "count": 1,
+      "lastTs": 1793842342
+    },
+    "0x99c9c440b5f46aa001649904b9f3ed8d0fa2e0f8|2026-11-05": {
+      "fromAddress": "0x99c9c440b5f46aa001649904b9f3ed8d0fa2e0f8",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xd82743cc26cecbc08450b082bf0403ffdc9372d0"
+      ],
+      "count": 1,
+      "lastTs": 1793842341
+    },
+    "0xd4045b73d720aae764be20514c33a970a63fa034|2026-11-05": {
+      "fromAddress": "0xd4045b73d720aae764be20514c33a970a63fa034",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xd70962bd7c6b3567a8c893b55a8abc1e151759f3"
+      ],
+      "count": 2,
+      "lastTs": 1793842341
+    },
+    "0xf732c06a361de445221e12c2b2e83ea4367c4803|2026-11-05": {
+      "fromAddress": "0xf732c06a361de445221e12c2b2e83ea4367c4803",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xd82743cc26cecbc08450b082bf0403ffdc9372d0"
+      ],
+      "count": 1,
+      "lastTs": 1793842341
+    },
+    "0x3408f31c1f141e9cf69b2b8246ae8b099ffad388|2026-11-05": {
+      "fromAddress": "0x3408f31c1f141e9cf69b2b8246ae8b099ffad388",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xd82743cc26cecbc08450b082bf0403ffdc9372d0"
+      ],
+      "count": 1,
+      "lastTs": 1793842341
+    },
+    "0x05c6516a09b04230620843ea2b624056658697c6|2026-11-05": {
+      "fromAddress": "0x05c6516a09b04230620843ea2b624056658697c6",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xacb0f417c0fafd2b4b83e41a30294ce3839d9b39"
+      ],
+      "count": 1,
+      "lastTs": 1793842341
+    },
+    "0xcc866270abe1f9eb156aa65124a34a72d9b674b0|2026-11-05": {
+      "fromAddress": "0xcc866270abe1f9eb156aa65124a34a72d9b674b0",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb"
+      ],
+      "count": 1,
+      "lastTs": 1793842336
+    },
+    "0x342bd0b04b7165e42e3a17762a70ca54b727f2c4|2026-11-05": {
+      "fromAddress": "0x342bd0b04b7165e42e3a17762a70ca54b727f2c4",
+      "dayKey": "2026-11-05",
+      "recipients": [
+        "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb"
+      ],
+      "count": 1,
+      "lastTs": 1793842336
+    }
+  }
 }
