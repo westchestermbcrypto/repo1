@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-07T08:59:15.026Z",
+  "generatedAt": "2026-11-07T15:28:26.410Z",
   "market": {
-    "priceUsd": 0.05807,
-    "marketCapUsd": 276476919,
-    "volume24hUsd": 29998485,
-    "change1hPct": 0.2691,
-    "change24hPct": 0.69269,
-    "change7dPct": -27.0734
+    "priceUsd": 0.057505,
+    "marketCapUsd": 273785534,
+    "volume24hUsd": 24937291,
+    "change1hPct": -0.6931,
+    "change24hPct": -0.39469,
+    "change7dPct": -27.5724
   },
   "holders": [
     {
@@ -63,11 +63,11 @@
       "rank": 6,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 277225771.05096006,
-      "pctSupply": 2.77225771,
-      "txCount": 216459,
+      "balanceXpl": 277217807.2333465,
+      "pctSupply": 2.77217807,
+      "txCount": 216479,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "deltaXpl": 297549.5584911108
+      "deltaXpl": -7963.81761354208
     },
     {
       "rank": 7,
@@ -93,34 +93,24 @@
       "rank": 9,
       "address": "0x8e88826f42a0f5f199a9c91c3798c626326730b4",
       "label": "Unit: Native Chain Treasury",
-      "balanceXpl": 171314340.4613268,
-      "pctSupply": 1.7131434,
-      "txCount": 29573,
+      "balanceXpl": 171317188.55731267,
+      "pctSupply": 1.71317189,
+      "txCount": 29576,
       "explorerUrl": "https://plasmascan.to/address/0x8e88826f42a0f5f199a9c91c3798c626326730b4",
-      "deltaXpl": -50727.85835838318
+      "deltaXpl": 2848.0959858596325
     },
     {
       "rank": 10,
-      "address": "0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "label": "Bybit: Wallet 129",
-      "balanceXpl": 133750681.71644257,
-      "pctSupply": 1.33750682,
-      "txCount": 66617,
-      "explorerUrl": "https://plasmascan.to/address/0x01eadbed08832ba3a12b571b299075dc6b503dca",
-      "deltaXpl": 779200.7394703478
+      "address": "0x7719c4974221ac2ea9463766488e1742e467ce8c",
+      "label": null,
+      "balanceXpl": 135035840.9663149,
+      "pctSupply": 1.35035841,
+      "txCount": 26,
+      "explorerUrl": "https://plasmascan.to/address/0x7719c4974221ac2ea9463766488e1742e467ce8c",
+      "deltaXpl": 8956117.120000005
     },
     {
       "rank": 11,
-      "address": "0x7719c4974221ac2ea9463766488e1742e467ce8c",
-      "label": null,
-      "balanceXpl": 126079723.8463149,
-      "pctSupply": 1.26079724,
-      "txCount": 25,
-      "explorerUrl": "https://plasmascan.to/address/0x7719c4974221ac2ea9463766488e1742e467ce8c",
-      "deltaXpl": -11069964.022230983
-    },
-    {
-      "rank": 12,
       "address": "0x7e52d521d24c04cb36c70130d92a2c1571e0b5a8",
       "label": null,
       "balanceXpl": 122453463.99997878,
@@ -130,14 +120,24 @@
       "deltaXpl": 0
     },
     {
+      "rank": 12,
+      "address": "0xee5b5b923ffce93a870b3104b7ca09c3db80047a",
+      "label": "Bybit: Hot Wallet 4",
+      "balanceXpl": 120000000,
+      "pctSupply": 1.2,
+      "txCount": 1,
+      "explorerUrl": "https://plasmascan.to/address/0xee5b5b923ffce93a870b3104b7ca09c3db80047a",
+      "deltaXpl": null
+    },
+    {
       "rank": 13,
       "address": "0x21f3601d0ba3ff66f77fa3728818febf9d5654f6",
       "label": null,
-      "balanceXpl": 104243924.55437256,
-      "pctSupply": 1.04243925,
-      "txCount": 13,
+      "balanceXpl": 103653051.08184253,
+      "pctSupply": 1.03653051,
+      "txCount": 14,
       "explorerUrl": "https://plasmascan.to/address/0x21f3601d0ba3ff66f77fa3728818febf9d5654f6",
-      "deltaXpl": -2218807.073426813
+      "deltaXpl": -590873.4725300372
     },
     {
       "rank": 14,
@@ -160,7 +160,7 @@
       "deltaXpl": 0
     }
   ],
-  "holderDeltaPct": -0.192018807731385,
+  "holderDeltaPct": -0.08457150414572093,
   "largeTransfers": [],
   "rewardCandidates": [],
   "unlockEvents": [
@@ -192,8 +192,8 @@
     "notes": [
       "No labeled exchange flow detected in the scanned window."
     ],
-    "priceUsd": 0.05807
+    "priceUsd": 0.057505
   },
   "thresholdXpl": 250000,
-  "scannedTxCount": 293
+  "scannedTxCount": 290
 }
