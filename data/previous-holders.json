@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T16:45:07.890Z",
+  "generatedAt": "2026-11-11T23:12:46.509Z",
   "holders": [
     {
       "rank": 1,
@@ -41,18 +41,18 @@
       "rank": 5,
       "address": "0xf2b1925c89d253b3103a6b6694681ef9f9864f4f",
       "label": null,
-      "balanceXpl": 322865622.916243,
-      "pctSupply": 3.22865623,
-      "txCount": 12793,
+      "balanceXpl": 323257336.855823,
+      "pctSupply": 3.23257337,
+      "txCount": 12796,
       "explorerUrl": "https://plasmascan.to/address/0xf2b1925c89d253b3103a6b6694681ef9f9864f4f"
     },
     {
       "rank": 6,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 276152515.5350637,
-      "pctSupply": 2.76152516,
-      "txCount": 217325,
+      "balanceXpl": 275807127.47223413,
+      "pctSupply": 2.75807127,
+      "txCount": 217383,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873"
     },
     {
