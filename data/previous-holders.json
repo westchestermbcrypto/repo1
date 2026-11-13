@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T08:17:26.698Z",
+  "generatedAt": "2026-11-13T16:36:11.539Z",
   "holders": [
     {
       "rank": 1,
@@ -41,18 +41,18 @@
       "rank": 5,
       "address": "0xf2b1925c89d253b3103a6b6694681ef9f9864f4f",
       "label": null,
-      "balanceXpl": 329247497.19195276,
-      "pctSupply": 3.29247497,
-      "txCount": 12859,
+      "balanceXpl": 329620990.49373615,
+      "pctSupply": 3.2962099,
+      "txCount": 12861,
       "explorerUrl": "https://plasmascan.to/address/0xf2b1925c89d253b3103a6b6694681ef9f9864f4f"
     },
     {
       "rank": 6,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 276874318.1023094,
-      "pctSupply": 2.76874318,
-      "txCount": 217682,
+      "balanceXpl": 276819178.4330402,
+      "pctSupply": 2.76819178,
+      "txCount": 217813,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873"
     },
     {
@@ -86,9 +86,9 @@
       "rank": 10,
       "address": "0x8e88826f42a0f5f199a9c91c3798c626326730b4",
       "label": "Unit: Native Chain Treasury",
-      "balanceXpl": 172007085.62921453,
-      "pctSupply": 1.72007086,
-      "txCount": 29641,
+      "balanceXpl": 171890739.7044097,
+      "pctSupply": 1.7189074,
+      "txCount": 29647,
       "explorerUrl": "https://plasmascan.to/address/0x8e88826f42a0f5f199a9c91c3798c626326730b4"
     },
     {
@@ -104,9 +104,9 @@
       "rank": 12,
       "address": "0x7719c4974221ac2ea9463766488e1742e467ce8c",
       "label": null,
-      "balanceXpl": 142220556.8388579,
-      "pctSupply": 1.42220557,
-      "txCount": 56,
+      "balanceXpl": 144444318.48296988,
+      "pctSupply": 1.44444318,
+      "txCount": 60,
       "explorerUrl": "https://plasmascan.to/address/0x7719c4974221ac2ea9463766488e1742e467ce8c"
     },
     {
@@ -120,21 +120,21 @@
     },
     {
       "rank": 14,
+      "address": "0x21f3601d0ba3ff66f77fa3728818febf9d5654f6",
+      "label": null,
+      "balanceXpl": 100478979.48407568,
+      "pctSupply": 1.00478979,
+      "txCount": 33,
+      "explorerUrl": "https://plasmascan.to/address/0x21f3601d0ba3ff66f77fa3728818febf9d5654f6"
+    },
+    {
+      "rank": 15,
       "address": "0xdc78606612d8777fa57439072c9669f92980fbd0",
       "label": null,
       "balanceXpl": 100000000,
       "pctSupply": 1,
       "txCount": 1,
       "explorerUrl": "https://plasmascan.to/address/0xdc78606612d8777fa57439072c9669f92980fbd0"
-    },
-    {
-      "rank": 15,
-      "address": "0x344a8083a88161bb9db4c7053c55e5a1f2a4dac0",
-      "label": null,
-      "balanceXpl": 100000000,
-      "pctSupply": 1,
-      "txCount": 1,
-      "explorerUrl": "https://plasmascan.to/address/0x344a8083a88161bb9db4c7053c55e5a1f2a4dac0"
     }
   ]
 }
