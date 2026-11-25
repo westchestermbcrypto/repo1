@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T01:59:38.037Z",
+  "generatedAt": "2026-11-25T10:57:10.241Z",
   "holders": [
     {
       "rank": 1,
@@ -34,25 +34,25 @@
       "label": "Binance 28",
       "balanceXpl": 379945724.181,
       "pctSupply": 3.79945724,
-      "txCount": 34,
+      "txCount": 35,
       "explorerUrl": "https://plasmascan.to/address/0x5a52e96bacdabb82fd05763e25335261b270efcb"
     },
     {
       "rank": 5,
       "address": "0xf2b1925c89d253b3103a6b6694681ef9f9864f4f",
       "label": null,
-      "balanceXpl": 317968398.8538246,
-      "pctSupply": 3.17968399,
-      "txCount": 12946,
+      "balanceXpl": 322253816.12426096,
+      "pctSupply": 3.22253816,
+      "txCount": 12960,
       "explorerUrl": "https://plasmascan.to/address/0xf2b1925c89d253b3103a6b6694681ef9f9864f4f"
     },
     {
       "rank": 6,
       "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "label": "Plasma: WXPL Token",
-      "balanceXpl": 289306329.55196816,
-      "pctSupply": 2.8930633,
-      "txCount": 220373,
+      "balanceXpl": 289676839.467694,
+      "pctSupply": 2.89676839,
+      "txCount": 220475,
       "explorerUrl": "https://plasmascan.to/address/0x6100e367285b01f48d07953803a2d8dca5d19873"
     },
     {
@@ -104,9 +104,9 @@
       "rank": 12,
       "address": "0x7719c4974221ac2ea9463766488e1742e467ce8c",
       "label": null,
-      "balanceXpl": 143269884.3934669,
-      "pctSupply": 1.43269884,
-      "txCount": 137,
+      "balanceXpl": 148369757.39344588,
+      "pctSupply": 1.48369757,
+      "txCount": 140,
       "explorerUrl": "https://plasmascan.to/address/0x7719c4974221ac2ea9463766488e1742e467ce8c"
     },
     {
@@ -122,9 +122,9 @@
       "rank": 14,
       "address": "0x21f3601d0ba3ff66f77fa3728818febf9d5654f6",
       "label": null,
-      "balanceXpl": 114322791.6668329,
-      "pctSupply": 1.14322792,
-      "txCount": 86,
+      "balanceXpl": 115775297.15683289,
+      "pctSupply": 1.15775297,
+      "txCount": 88,
       "explorerUrl": "https://plasmascan.to/address/0x21f3601d0ba3ff66f77fa3728818febf9d5654f6"
     },
     {
